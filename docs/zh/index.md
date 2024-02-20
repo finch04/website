@@ -16,23 +16,25 @@ hero:
   #   src: /rspress-icon.png
   #   alt: HiFOSS Logo
 features:
-  - title: Blazing fast build speed
-    details: The core compilation module is based on the Rust front-end toolchain, providing a more ultimate development experience.
-    icon: 🏃🏻‍♀️
-    link: https://github.com/web-infra-dev/rspress
-  - title: Support for MDX content writing
-    details: MDX is a powerful way to write content, allowing you to use React components in Markdown.
-    icon: 📦
-  - title: Built-in full-text search
-    details: Automatically generates a full-text search index for you during construction, providing out-of-the-box full-text search capabilities.
+  - title: 社团GitLab仓库
+    details: GitLab是一个开源的代码仓库管理系统，社团可以利用它来管理和维护社团的代码资源。通过GitLab，社团成员可以方便地共享代码、协作开发，并通过版本控制功能追踪和管理代码的变化。
+    link: https://gitee.com/TSGU-OSC
+    icon: 🧑‍💻
+  - title: 社团微信公众号
+    details: 公众号可以作为社团宣传和推广的重要平台。通过公众号，社团可以发布社团资讯、活动信息、作品展示等内容，吸引更多人的关注和参与。
+    link: https://gitee.com/TSGU-OSC
+    icon: ℹ️
+  - title: 社团AI绘画工具
+    details: AI绘画技术可以帮助社团成员提高艺术创作水平和效率。通过利用AI绘画软件，社团成员可以轻松地生成各种风格的图像，获得新的创意灵感。
+    link: https://gitee.com/TSGU-OSC
     icon: 🎨
-  - title: Simpler I18n solution
-    details: With the built-in I18n solution, you can easily provide multi-language support for documents or components.
-    icon: 🌍
-  - title: Static site generation
-    details: In production, it automatically builds into static HTML files, which can be easily deployed anywhere.
-    icon: 🌈
-  - title: Providing multiple custom capabilities
-    details: Through its extension mechanism, you can easily extend theme UI and build process.
-    icon: 🔥
+  # - title: Simpler I18n solution
+  #   details: With the built-in I18n solution, you can easily provide multi-language support for documents or components.
+  #   icon: 🌍
+  # - title: Static site generation
+  #   details: In production, it automatically builds into static HTML files, which can be easily deployed anywhere.
+  #   icon: 🌈
+  # - title: Providing multiple custom capabilities
+  #   details: Through its extension mechanism, you can easily extend theme UI and build process.
+  #   icon: 🔥
 ---
