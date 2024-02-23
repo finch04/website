@@ -3,6 +3,7 @@ import { defineConfig } from 'rspress/config';
 
 export default defineConfig({
   lang: 'zh',
+  publicPath:'./',
   // locales 为一个对象数组
   locales: [
     {
