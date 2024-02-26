@@ -24,17 +24,20 @@ features:
     details: The official account can be used as an important platform for community publicity and promotion. Through the official account, the club can release club information, activity information, work display and other content, attracting more people's attention and participation.
     link: https://gitee.com/TSGU-OSC
     icon: ℹ️
-  - title: stable diffusion
+  - title: Stable Diffusion In Club
     details: AI painting technology can help club members improve their artistic creation level and efficiency. By utilizing AI painting software, club members can easily generate images of various styles and gain new creative inspiration.
     link: https://gitee.com/TSGU-OSC
     icon: 🎨
-  # - title: Simpler I18n solution
-  #   details: With the built-in I18n solution, you can easily provide multi-language support for documents or components.
-  #   icon: 🌍
-  # - title: Static site generation
-  #   details: In production, it automatically builds into static HTML files, which can be easily deployed anywhere.
-  #   icon: 🌈
-  # - title: Providing multiple custom capabilities
-  #   details: Through its extension mechanism, you can easily extend theme UI and build process.
-  #   icon: 🔥
+  - title: Alist In Club
+    details: Alist storage system is a comprehensive, easy-to-use, and easily expandable file list program that can easily manage and access files in various storage services. The club uses it to store relevant learning materials, which can achieve resource sharing.
+    link: https://gitee.com/TSGU-OSC
+    icon: 💾
+  - title: Club Management System
+    details: Convenient for club members to manage their personal information here, and also manage club announcements. Improved the cohesion of the club and facilitated the communication of club members.
+    link: https://gitee.com/TSGU-OSC
+    icon: ®
+  - title: Club project warehouse
+    details: The club project warehouse is an important collaboration and management tool that can help team members better collaborate, develop, and maintain club projects, and improve project quality and efficiency. Club members can share or develop related projects together here
+    link: https://gitee.com/TSGU-OSC
+    icon: 🔧
 ---

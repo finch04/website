@@ -2,6 +2,16 @@ import * as path from 'path';
 import { defineConfig } from 'rspress/config';
 
 export default defineConfig({
+  builderConfig: {
+    output: {
+      assetPrefix: 'https://tsgu-osc.gitee.io/website/',
+    },
+  },
+  base: '/website/',
+  ssg:true,
+  route: {
+    cleanUrls: true,
+  },
   lang: 'zh',
   publicPath:'./',
   // locales 为一个对象数组
