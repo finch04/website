@@ -2,11 +2,11 @@ import * as path from 'path';
 import { defineConfig } from 'rspress/config';
 
 export default defineConfig({
-  builderConfig: {
-    output: {
-      assetPrefix: 'https://tsgu-osc.gitee.io/website/',
-    },
-  },
+  // builderConfig: {
+  //   output: {
+  //     assetPrefix: 'https://tsgu-osc.gitee.io/website/',
+  //   },
+  // },
   // base: '/website/',
   ssg:true,
   route: {
