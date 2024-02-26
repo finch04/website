@@ -7,10 +7,10 @@ hero:
   tagline: Welcome to OHC. We focus on promoting open source technology, providing a platform for communication, cooperation, training, and support, encouraging members to share code and experience, and jointly promoting the development of open source technology.
   actions:
     - theme: brand
-      text: Content
+      text: 📖Content
       link: /en/content/
     - theme: alt
-      text: Member
+      text: 👤Member
       link: /en/member/
   # image:
   #   src: /logo-developer-header.svg

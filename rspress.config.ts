@@ -7,7 +7,7 @@ export default defineConfig({
       assetPrefix: 'https://tsgu-osc.gitee.io/website/',
     },
   },
-  base: '/website/',
+  // base: '/website/',
   ssg:true,
   route: {
     cleanUrls: true,
