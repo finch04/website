@@ -4,14 +4,14 @@ pageType: home
 hero:
   name: OHC
   text: The OpenHarmony Community
-  tagline: Welcome to OpenHarmony Community
+  tagline: Welcome to OHC. We focus on promoting open source technology, providing a platform for communication, cooperation, training, and support, encouraging members to share code and experience, and jointly promoting the development of open source technology.
   actions:
     - theme: brand
       text: Content
-      link: /en/content
+      link: /en/content/
     - theme: alt
       text: Member
-      link: /en/member
+      link: /en/member/
   # image:
   #   src: /logo-developer-header.svg
   #   alt: HiFOSS Logo
