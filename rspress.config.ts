@@ -9,9 +9,9 @@ export default defineConfig({
   // },
   // base: '/website/',
   ssg:true,
-  route: {
-    cleanUrls: true,
-  },
+  // route: {
+  //   cleanUrls: true,
+  // },
   lang: 'zh',
   publicPath:'./',
   // locales 为一个对象数组
