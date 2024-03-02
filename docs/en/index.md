@@ -18,7 +18,7 @@ hero:
 features:
   - title: GitLab
     details: GitLab is an open-source code repository management system that communities can use to manage and maintain their code resources. Through GitLab, community members can easily share code, collaborate on development, and track and manage code changes through version control functionality.
-    link: https://gitee.com/TSGU-OSC
+    link: http://192.168.50.236:5757/
     icon: 🧑‍💻
   - title: WeChat official account
     details: The official account can be used as an important platform for community publicity and promotion. Through the official account, the club can release club information, activity information, work display and other content, attracting more people's attention and participation.
@@ -36,8 +36,8 @@ features:
     details: Convenient for club members to manage their personal information here, and also manage club announcements. Improved the cohesion of the club and facilitated the communication of club members.
     link: https://gitee.com/TSGU-OSC
     icon: ®
-  - title: Club project warehouse
-    details: The club project warehouse is an important collaboration and management tool that can help team members better collaborate, develop, and maintain club projects, and improve project quality and efficiency. Club members can share or develop related projects together here
+  - title: Minecraft In OHC
+    details: The club MC server, with its stable operation, rich community activities, friendly community atmosphere, organized team gameplay, customized gaming experience, and good security, provides players with a higher quality and fun Minecraft gaming environment. Club members can also relax during their busy studies.
     link: https://gitee.com/TSGU-OSC
-    icon: 🔧
+    icon: 📦️
 ---
