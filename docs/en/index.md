@@ -3,7 +3,7 @@ pageType: home
 
 hero:
   name: TSGU-OSC
-  text: The OpenHarmony Community
+  text: The Opensource Community
   tagline: Welcome to TSGU-OSC. We focus on promoting open source technology, providing a platform for communication, cooperation, training, and support, encouraging members to share code and experience, and jointly promoting the development of open source technology.
   actions:
     - theme: brand

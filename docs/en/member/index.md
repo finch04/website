@@ -59,6 +59,6 @@ Java development, front-end development
 * Research area：
   Video image analysis, artificial intelligence and machine learning technology, video encoding and decoding technology
 
-### Technical support：Tang Mingsui
+### Opensource Mentor：Tang Mingsui
 
 Open atom education lecturer, open source summer tutor, open atom annual open source contribution star, lion doll open source project maintainer
