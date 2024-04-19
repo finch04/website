@@ -3,7 +3,7 @@
 ### Official establishment of the club: March 25, 2023
 ### Club welcome party: March 27, 2023
 ### First technical lecture: October 16, 2023
-### The First Programmer Day of OHC: October 24, 2023
+### The First Programmer Day of OSC: October 24, 2023
 ### How to use open source projects: March 25th, 2023
 ### Linux Beginner Training: August 2023
 ### How to effectively utilize server resources: December 15, 2023
