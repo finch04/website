@@ -39,7 +39,7 @@
 
 - **社团活动文章**：社团门户网站会将社团主要活动展示在上面以便社团成员观看。
 
-![image-20240420164259293](C:\Users\jimmy\AppData\Roaming\Typora\typora-user-images\image-20240420164259293.png)
+![image-20240420164259293](./img/image-20240420164259293.png)
 
 
 
