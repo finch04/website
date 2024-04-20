@@ -20,8 +20,8 @@ export default defineConfig({
       lang: 'en',
       // 导航栏切换语言的标签
       label: 'English',
-      title: 'TSGU-OHC',
-      description: 'TSGU-OHC',
+      title: 'TSGU-OSC',
+      description: 'TSGU-OSC',
     },
     {
       lang: 'zh',
@@ -37,16 +37,16 @@ export default defineConfig({
     enableContentAnimation: true,
     lastUpdated: true,
     footer: {
-      message: '开源鸿蒙社 版权所有   All rights reserved by OHC',
+      message: '开源鸿蒙社 版权所有   All rights reserved by TSGU-OSC',
     },
     locales: [
       {
         lang: 'en',
-        title: "TSGU-OHC",
+        title: "TSGU-OSC",
         outlineTitle: 'ON THIS Page',
         lastUpdatedText: 'Last Updated',
         searchPlaceholderText: 'Search Docs',
-        description: 'TSGU-OHC',
+        description: 'TSGU-OSC',
       },
       {
         lang: 'zh',
@@ -72,7 +72,7 @@ export default defineConfig({
   root: path.join(__dirname, 'docs'),
   // root: 'docs',
   // title: 'OHC',
-  description: 'OHC',
+  description: 'TSGU-OSC',
   icon: '/icon-l.jpg',
   logo: {
     light: '/icon-l-1.jpg',
