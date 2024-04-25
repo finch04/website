@@ -44,7 +44,7 @@
 #### 6.Fu Shenqi
 
 * Personal profile：
- Leader of the Development Team for the Open Source Hongmeng Society Club Management System
+ CTO in OSC
 
 * Research orientation：
 Java development, front-end development

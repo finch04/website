@@ -60,10 +60,11 @@
  <!-- <img src="../public/members/zhangjipeng.jpg" width="200" height="400" /> -->
 
 * 个人简介：
-  开源鸿蒙社社团管理系统开发组组长
+  开源鸿蒙社社团技术骨干
 
 * 研究方向：
   Java开发、前端开发
+
 
 ### 指导老师：杨清永
 
