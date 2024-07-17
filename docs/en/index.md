@@ -32,10 +32,10 @@ features:
   #   details: AI painting technology can help club members improve their artistic creation level and efficiency. By utilizing AI painting software, club members can easily generate images of various styles and gain new creative inspiration.
   #   link: http://172.19.15.12:7860/
   #   icon: 🎨
-  - title: Club Recruitment Survey
-    details: Students who want to join the club, please click here to fill out the survey.
-    link: https://www.wjx.cn/vm/eJn1Obq.aspx# 
-    icon: 📝
+  - title: Open WebUI
+    details: The community's private platform for using large language models provides secure and reliable intelligent tools, efficient reasoning capabilities, and meets the needs of text generation, question answering analysis, and more.
+    link: http://172.19.15.11:3000/ 
+    icon: ℹ️
   - title: Alist In Club
     details: Alist storage system is a comprehensive, easy-to-use, and easily expandable file list program that can easily manage and access files in various storage services. The club uses it to store relevant learning materials, which can achieve resource sharing.
     link: http://172.19.15.13:5244/
