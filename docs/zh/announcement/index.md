@@ -14,5 +14,6 @@
 ### 社团管理系统正式上线 2024.3.4
 ### HDD•她力量 2024.3.8
 ### 中科院2024开源之夏启动会 2024.3.10 
-### 华为昇腾创享日 2024.3.26  
+### [华为昇腾AI创享日 : 2024.3.26](https://gitee.com/TSGU-OSC/OSC_main/blob/master/event/active10/README.md)  
 ### 社团门户网站正式上线 2024.4.20
+### [世界智能产业博览会 : 2024.6.20](https://gitee.com/TSGU-OSC/OSC_main/blob/master/event/active11/README.md)
