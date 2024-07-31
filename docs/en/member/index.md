@@ -15,7 +15,7 @@
   Vice President of Openharmony Club, Open Source Ambassador of Open Atomic School, member of HiFOSS Open Source Community
 
 * Research orientation:
-  Image processing, video splicing
+  Image processing, audio and video development, image stitching
 
 #### 3.Zhang Jipeng
 
@@ -49,13 +49,13 @@
 * Research orientation:
   Quality control
 
-#### 7.Chi Siyu
+#### 7.Zhou Ding
 
 * Personal profile:
-  Director of Openharmony Club Publicity Department, Open Source Ambassador of Open Atomic School
-
+  Director of Openharmony Club Publicity Department
+  
 * Research orientation:
-  embedded development
+  Computer vision
 
 #### 8.Zhao Fenghua
 
@@ -73,13 +73,13 @@
 * Research orientation:
   Operating system research and development
 
-#### 10.Zhou Ding
+#### 10.Yang Quanshu
 
-* Personal profile:
-  Vice Director of Openharmony Club Publicity Department,
-  
+* Personal proifile:
+  Vice Director of Openharmony Club Publicity Department
+
 * Research orientation:
-  Computer vision
+  Cyber security attack and defense
 
 ### First Advisor: Yang Qingyong
 
