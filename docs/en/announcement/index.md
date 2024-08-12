@@ -9,10 +9,10 @@
 ### [Huawei Ascend AI National Tour: December 9, 2023](https://gitee.com/TSGU-OSC/OSC_main/blob/master/event/active8/README.md)
 ### [How to effectively utilize server resources: December 15, 2023](https://gitee.com/TSGU-OSC/OSC_main/blob/master/event/active7/README.md)
 ### [Open Atomic School Source Tour (Beijing Institute of Technology Station): January 6, 2024](https://gitee.com/TSGU-OSC/OSC_main/blob/master/event/active9/README.md)
-### The club management system was officially launched :  March 4, 2024
+### The club management system was officially launched : March 4, 2024
 ### HDD• Her power : March 8, 2024
 ### Chinese Academy of Sciences 2024 Open source Summer launch meeting : March 10, 2024
-### Huawei Ascend Innovation Day March 26, 2024
-### The club portal website was officially launched :  April 20, 2024 
-
+### [Huawei Ascend AI Inspire Day : March 26, 2024](https://gitee.com/TSGU-OSC/OSC_main/blob/master/event/active10/README.md)
+### The club portal website was officially launched : April 20, 2024 
+### [World Intelligence Expo : June 20, 2024](https://gitee.com/TSGU-OSC/OSC_main/blob/master/event/active11/README.md)
 

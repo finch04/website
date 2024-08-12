@@ -1,5 +1,7 @@
 import * as path from 'path';
 import { defineConfig } from 'rspress/config';
+import { LastUpdated } from 'rspress/theme'; 
+
 
 export default defineConfig({
   // builderConfig: {
@@ -47,6 +49,7 @@ export default defineConfig({
         lastUpdatedText: 'Last Updated',
         searchPlaceholderText: 'Search Docs',
         description: 'TSGU-OSC',
+        label: ''
       },
       {
         lang: 'zh',
@@ -55,6 +58,7 @@ export default defineConfig({
         lastUpdatedText: '最后更新时间',
         searchPlaceholderText: '搜索',
         description: '开源鸿蒙社',
+        label: ''
       },
     ],
     socialLinks: [
@@ -79,5 +83,4 @@ export default defineConfig({
     dark: '/icon-d.jpg',
   },
 
-  
 });
