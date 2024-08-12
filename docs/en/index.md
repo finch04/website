@@ -12,6 +12,7 @@ hero:
     - theme: alt
       text: 👤Member
       link: /en/member/
+    - theme: alt
   image:
     src: /icon-l-en.jpg
     alt: Logo

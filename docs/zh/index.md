@@ -4,7 +4,7 @@ pageType: home
 hero:
   name: TSGU-OSC
   text: 开源鸿蒙社
-  tagline: 欢迎来到开源鸿蒙社，我们专注推广开源技术，提供交流、合作、培训与支持平台，鼓励成员共享代码与经验，共促开源技术发展。
+  tagline: 我们专注推广开源技术，提供交流、合作、培训平台，鼓励成员共享代码与经验，共促开源技术发展。
   actions:
     - theme: brand
       text: 📖社团简介
@@ -15,6 +15,7 @@ hero:
   image:
     src: /icon-l.jpg
     alt: Logo
+
 features:
   # - title: 社团GitLab仓库
   #   details: GitLab是一个开源的代码仓库管理系统，社团可以利用它来管理和维护社团的代码资源。通过GitLab，社团成员可以方便地共享代码、协作开发，并通过版本控制功能追踪和管理代码的变化。
