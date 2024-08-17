@@ -1,0 +1,44 @@
+[
+  {
+    "type": "dir",
+    "name": "1-forword",
+    "label": "Forword",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "2-club",
+    "label": "Introduction to our club",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "3-new",
+    "label": "New Student Admission Guide",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "4-school",
+    "label": "School Life Guide",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "5-city",
+    "label": "Guide to Students from Outside Tianjin",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "6-appendix",
+    "label": "Appendix",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]
