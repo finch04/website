@@ -6,9 +6,12 @@ hero:
   text: 开源鸿蒙社
   tagline: 我们专注推广开源技术，提供交流、合作、培训平台，鼓励成员共享代码与经验，共促开源技术发展。
   actions:
-    - theme: brand
+    - theme: alt
       text: 📖社团简介
       link: /content/
+    - theme: brand
+      text: 新生指南
+      link: /guide/1-forword/1-forword
     - theme: alt
       text: 👤社团成员
       link: /member/

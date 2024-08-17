@@ -1,0 +1,44 @@
+[
+  {
+    "type": "dir",
+    "name": "1-forword",
+    "label": "前言",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "2-club",
+    "label": "本社团介绍",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "3-new",
+    "label": "新生入学指南",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "4-school",
+    "label": "学校生活指南",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "5-city",
+    "label": "津外生源指南",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "6-appendix",
+    "label": "附录",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]

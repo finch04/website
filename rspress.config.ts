@@ -38,6 +38,7 @@ export default defineConfig({
     enableScrollToTop: true,
     enableContentAnimation: true,
     lastUpdated: true,
+    hideNavbar: 'never',
     footer: {
       message: '开源鸿蒙社 版权所有   All rights reserved by TSGU-OSC',
     },
