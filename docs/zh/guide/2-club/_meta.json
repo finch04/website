@@ -1,0 +1,44 @@
+[
+  {
+    "type": "file",
+    "name": "1-Club",
+    "label": "社团简介",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "2-Java",
+    "label": "Java组简介",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "3-Algorithm",
+    "label": "算法队介绍",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "4-OpenConverter",
+    "label": "OpenConverter-音视频开发组简介",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "5-AI",
+    "label": "AI组简介",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "6-Waiting-for-you",
+    "label": "等你加入",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]

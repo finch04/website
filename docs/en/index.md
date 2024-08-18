@@ -11,7 +11,7 @@ hero:
       link: /en/content/
     - theme: brand
       text: Freshman's Guide
-      link: /en/guide/1-forword/1-forword
+      link: /en/guide/1-foreword/1-foreword
     - theme: alt
       text: 👤Member
       link: /en/member/

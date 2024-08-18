@@ -1,0 +1,1 @@
+# Requirement about Entrance examination

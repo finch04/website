@@ -1,15 +1,15 @@
 [
   {
     "type": "dir",
-    "name": "1-forword",
-    "label": "Forword",
+    "name": "1-foreword",
+    "label": "Foreword",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
     "name": "2-club",
-    "label": "Introduction to our club",
+    "label": "Introduction of the Club",
     "collapsible": "true",
     "collapsed": "false"
   },

@@ -1,0 +1,30 @@
+[
+  {
+    "type": "file",
+    "name": "1-city",
+    "label": "城市及周边城市地区简介",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "2-Transportation Overview",
+    "label": "交通总览",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "3-Subway",
+    "label": "地铁",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "4-Ways to come",
+    "label": "津外来校方式",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]

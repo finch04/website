@@ -1,0 +1,44 @@
+[
+  {
+    "type": "file",
+    "name": "1-Club",
+    "label": "Introduction to our club",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "2-Java",
+    "label": "Brief introduction of group Java",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "3-Algorithm",
+    "label": "Brief introduction of Algorithm team",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "4-OpenConverter",
+    "label": "Brief introduction of group OpenConverter",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "5-AI",
+    "label": "Brief introduction of AI",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "6-Waiting-for-you",
+    "label": "Waiting for you~",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]

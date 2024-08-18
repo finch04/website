@@ -1,0 +1,51 @@
+[
+  {
+    "type": "file",
+    "name": "1-appendix",
+    "label": "附录总览",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "2-Daily necessities summary",
+    "label": "新生生活用品总结",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "3-Military training",
+    "label": "军训相关事宜",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "4-Change of major process",
+    "label": "各学院转专业流程",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "5-forbidden items",
+    "label": "禁止携带的物品",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "6-About Library",
+    "label": "图书馆开放时间和相关事宜",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "7-school calendar",
+    "label": "校历",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]
