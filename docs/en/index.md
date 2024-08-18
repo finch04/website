@@ -4,7 +4,7 @@ pageType: home
 hero:
   name: TSGU-OSC
   text: The Opensource Community
-  tagline: Welcome to TSGU-OSC. We focus on promoting open source technology, providing a platform for communication, cooperation, training, and support, encouraging members to share code and experience, and jointly promoting the development of open source technology.
+  tagline: We focus on promoting open source technology and working together to promote its development.
   actions:
     - theme: alt
       text: 📖Content
