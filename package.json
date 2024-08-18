@@ -8,15 +8,12 @@
     "preview": "rspress preview"
   },
   "dependencies": {
-<<<<<<< HEAD
     "rspress": "^1.28.0"
-=======
-    "rspress": "^1.27.1"
->>>>>>> 173f8a28fcfdeba2b5f69c627dfa98e6d307bae1
   },
   "devDependencies": {
-    "@rspress/plugin-last-updated": "^1.26.3",
-    "@types/node": "^16"
+    "@rspress/plugin-last-updated": "^1.28.0",
+    "@types/node": "^16",
+    "rspress-plugin-font-open-sans": "^1.0.0"
   },
   "homepage": "."
 }

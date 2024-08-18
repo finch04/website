@@ -4,7 +4,7 @@ pageType: home
 hero:
   name: TSGU-OSC
   text: 开源鸿蒙社
-  tagline: 我们专注推广开源技术，提供交流、合作、培训平台，鼓励成员共享代码与经验，共促开源技术发展。
+  tagline: 我们专注推广开源技术，共促开源技术发展。
   actions:
     - theme: alt
       text: 📖社团简介
