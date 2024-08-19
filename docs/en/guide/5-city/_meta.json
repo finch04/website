@@ -1,0 +1,30 @@
+[
+  {
+    "type": "file",
+    "name": "1-city",
+    "label": "Introduction to the city and surrounding urban areas",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "2-Transportation Overview",
+    "label": "Transportation Overview",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "3-Subway",
+    "label": "Subway",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "4-Ways to come",
+    "label": "Ways to come to school",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]

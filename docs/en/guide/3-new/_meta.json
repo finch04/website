@@ -1,0 +1,37 @@
+[
+  {
+    "type": "file",
+    "name": "1-overview",
+    "label": "Overview",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "2-Materials and Examination",
+    "label": "Materials required and entrance examination requirements",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "3-Financial aid and Archives",
+    "label": "Awards and grants and archives management regulations",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "4-Reqiurement about school and major",
+    "label": "School requirements and professional Settings",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "5-Q&A",
+    "label": "Q&A",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]

@@ -1,6 +1,7 @@
 import * as path from 'path';
 import { defineConfig } from 'rspress/config';
 import { LastUpdated } from 'rspress/theme'; 
+import * as pdfjsLib from 'pdfjs-dist';
 
 
 export default defineConfig({
@@ -80,8 +81,8 @@ export default defineConfig({
   description: 'TSGU-OSC',
   icon: '/icon-l.jpg',
   logo: {
-    light: '/icon-l-1.jpg',
-    dark: '/icon-d.jpg',
+    light: '/logo-2.png',
+    dark: '/logo-2.png',
   },
 
 });

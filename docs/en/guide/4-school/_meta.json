@@ -1,0 +1,37 @@
+[
+  {
+    "type": "file",
+    "name": "1-school",
+    "label": "Brief introduction of our school",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "2-School Plan",
+    "label": "School plan",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "3-School and Surrounding",
+    "label": "Campus and surrounding area",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "4-Library",
+    "label": "Library introduction",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "5-Food-accommodation-routine",
+    "label": "Diet, accommodation, and daily routine",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]

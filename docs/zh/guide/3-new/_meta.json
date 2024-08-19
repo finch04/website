@@ -1,0 +1,37 @@
+[
+  {
+    "type": "file",
+    "name": "1-overview",
+    "label": "概览",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "2-Materials and Examination",
+    "label": "新生需准备材料及入学考试",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "3-Financial aid and Archives",
+    "label": "奖助学金及档案管理规定",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "4-Reqiurement about school and major",
+    "label": "学校要求和专业设置",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "5-Q&A",
+    "label": "新生问答",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]

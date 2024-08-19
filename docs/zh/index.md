@@ -11,7 +11,7 @@ hero:
       link: /content/
     - theme: brand
       text: 新生指南
-      link: /guide/1-forword/1-forword
+      link: /guide/1-foreword/1-foreword
     - theme: alt
       text: 👤社团成员
       link: /member/
