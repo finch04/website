@@ -16,14 +16,14 @@
   {
     "type": "dir",
     "name": "3-Subway",
-    "label": "地铁",
+    "label": "地铁总览",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
     "name": "4-Ways-to-come",
-    "label": "津外来校方式",
+    "label": "津外来校指南",
     "collapsible": "true",
     "collapsed": "false"
   }
