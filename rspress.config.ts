@@ -1,7 +1,7 @@
 import * as path from 'path';
 import { defineConfig } from 'rspress/config';
 import { LastUpdated } from 'rspress/theme'; 
-import * as pdfjsLib from 'pdfjs-dist';
+import rspressPluginAlignImage from 'rspress-plugin-align-image';
 
 
 export default defineConfig({
@@ -84,5 +84,11 @@ export default defineConfig({
     light: '/logo-2.png',
     dark: '/logo-4.png',
   },
+  plugins:[
+    rspressPluginAlignImage({
+        justify:'center'
+      }
+    )
+  ]
 
 });

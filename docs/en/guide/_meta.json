@@ -8,35 +8,28 @@
   },
   {
     "type": "dir",
-    "name": "2-club",
-    "label": "Introduction of the Club",
-    "collapsible": "true",
-    "collapsed": "false"
-  },
-  {
-    "type": "dir",
-    "name": "3-new",
+    "name": "2-new",
     "label": "New Student Admission Guide",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "4-school",
+    "name": "3-school",
     "label": "School Life Guide",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "5-city",
+    "name": "4-city",
     "label": "Guide to Students from Outside Tianjin",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "6-appendix",
+    "name": "5-appendix",
     "label": "Appendix",
     "collapsible": "true",
     "collapsed": "false"
