@@ -1,1 +1,1 @@
-# 这是学校介绍
+# This is the school introduction

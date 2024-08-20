@@ -8,7 +8,7 @@
   },
   {
     "type": "dir",
-    "name": "2-Transportation Overview",
+    "name": "2-Transportation-Overview",
     "label": "Transportation Overview",
     "collapsible": "true",
     "collapsed": "false"
@@ -22,7 +22,7 @@
   },
   {
     "type": "dir",
-    "name": "4-Ways to come",
+    "name": "4-Ways-to-come",
     "label": "Ways to come to school",
     "collapsible": "true",
     "collapsed": "false"

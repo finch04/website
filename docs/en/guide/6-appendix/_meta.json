@@ -8,42 +8,42 @@
   },
   {
     "type": "dir",
-    "name": "2-Daily necessities summary",
+    "name": "2-Daily-necessities-summary",
     "label": "Summary of new student supplies",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "3-Military training",
+    "name": "3-Military-training",
     "label": "Military training related matters",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "4-Change of major process",
+    "name": "4-Change-of-major-process",
     "label": "Transfer process of each college",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "5-forbidden items",
+    "name": "5-forbidden-items",
     "label": "Forbidden items",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "6-About Library",
+    "name": "6-About-Library",
     "label": "Library opening hours and related matters",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "7-school calendar",
+    "name": "7-school-calendar",
     "label": "School calendar",
     "collapsible": "true",
     "collapsed": "false"

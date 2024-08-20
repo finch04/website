@@ -1,1 +1,0 @@
-# Regulations on archives management
