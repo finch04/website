@@ -4,7 +4,7 @@
 
 ## Is there an error? You want to add or modify?
 
-no problem! We warmly welcome:
+No problem! We warmly welcome:
 - Propose modifications and supplementary suggestions
 - Submit updates and MD documents
 - Fork source code
