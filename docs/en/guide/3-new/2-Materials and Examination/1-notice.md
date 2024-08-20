@@ -1,1 +1,0 @@
-# Tips/Precautions for New students

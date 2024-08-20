@@ -82,7 +82,7 @@ export default defineConfig({
   icon: '/icon-l.jpg',
   logo: {
     light: '/logo-2.png',
-    dark: '/logo-2.png',
+    dark: '/logo-4.png',
   },
 
 });

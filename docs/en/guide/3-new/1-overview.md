@@ -1,1 +1,1 @@
-# 这里是新生入学指南概览
+# This is the freshman admission guide
