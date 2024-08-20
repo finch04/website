@@ -1,1 +1,0 @@
-# Requirement about scholarship and grants
