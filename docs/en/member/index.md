@@ -7,7 +7,7 @@
   President of Openharmony Club, Huawei HSD Campus Ambassador, Open Source Ambassador of Open Atomic School, Co-founder of HiFOSS Open Source Community
 
 * Research orientation:
-  Digital image-processing, machine learning, Multimedia infrastructure
+  Digital image-processing, machine learning, Audio and video infrastructure
 
 #### 2.Liu Jian
 
