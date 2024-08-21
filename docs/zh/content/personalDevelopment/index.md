@@ -1,6 +1,6 @@
 ## Java
 
-内容较多，[详见](https://osc.tsguas.cn/content/2-development/JavaBasicLearningRoute.html)
+内容较多，[详见](https://osc.tsguas.cn/content/personalDevelopment/JavaBasicLearningRoute.html)
 
 ## Web
 
@@ -40,7 +40,7 @@
 
 ## OpenConverter 开发人员培养计划
 
-这是培养大纲，若要详细了解，请见[详情](https://osc.tsguas.cn/content/2-development/OpenConverterBasicLearningRoute.html)
+这是培养大纲，若要详细了解，请见[详情](https://osc.tsguas.cn/content/personalDevelopment/OpenConverterBasicLearningRoute.html)
 
 ### 任务
 - 字符版五子棋
@@ -71,4 +71,4 @@
 
 ## 互联网+
 
-[详情](https://osc.tsguas.cn/content/2-development/internet.html)
+[详情](https://osc.tsguas.cn/content/personalDevelopment/Internet.html)
