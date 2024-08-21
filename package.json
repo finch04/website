@@ -8,8 +8,6 @@
     "preview": "rspress preview"
   },
   "dependencies": {
-    "pdfjs-dist": "^4.5.136",
-    "pdfvuer": "^1.10.0",
     "rspress": "^1.28.0",
     "rspress-plugin-align-image": "^0.3.0"
   },

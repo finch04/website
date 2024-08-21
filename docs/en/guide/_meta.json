@@ -15,21 +15,28 @@
   },
   {
     "type": "dir",
-    "name": "3-school",
+    "name": "3-school-inside",
     "label": "School Life Guide",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "4-city",
+    "name": "4-school-outside",
+    "label": "School Life Guide",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+  {
+    "type": "dir",
+    "name": "5-city",
     "label": "Guide to Students from Outside Tianjin",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "5-appendix",
+    "name": "6-appendix",
     "label": "Appendix",
     "collapsible": "true",
     "collapsed": "false"

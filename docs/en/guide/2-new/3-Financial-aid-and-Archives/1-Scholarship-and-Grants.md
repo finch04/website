@@ -3,7 +3,7 @@
 The new semester is coming soon, and prospective college students are also preparing for their upcoming college life. If your family is facing financial difficulties, don't worry. The government has established a comprehensive system of student aid policies for higher education, including national scholarships, national motivational scholarships, national grants, and national student loans, which can help you smoothly enroll and complete your studies!
 
 ## Autonomous Policy System for College Students
-![Autonomous Policy System for College Students](../../../../public/aid.png)
+![Autonomous Policy System for College Students](../../../../public/guide/new/aid.png)
 
 ### 1. National Scholarship for Undergraduate and Junior College Students
 Special outstanding full-time undergraduate and junior college students (including vocational colleges and second bachelor's degrees) included in the national enrollment plan will be rewarded, with 60000 students awarded annually at a rate of 8000 yuan per student, and a nationally printed certificate of honor will be issued.
