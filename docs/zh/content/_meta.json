@@ -1,0 +1,16 @@
+[
+    {
+      "type": "dir",
+      "name": "1-index",
+      "label": "社团介绍",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "dir",
+      "name": "2-development",
+      "label": "人才培养计划",
+      "collapsible": "true",
+      "collapsed": "false"
+    }
+]
