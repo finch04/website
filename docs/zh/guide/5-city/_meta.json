@@ -8,22 +8,15 @@
   },
   {
     "type": "dir",
-    "name": "2-Transportation-Overview",
-    "label": "交通总览",
+    "name": "2-Transportation",
+    "label": "天津交通简介",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
-    "type": "dir",
-    "name": "3-Subway",
-    "label": "地铁总览",
-    "collapsible": "true",
-    "collapsed": "false"
-  },
-  {
-    "type": "dir",
-    "name": "4-Ways-to-come",
-    "label": "津外来校指南",
+    "type": "file",
+    "name": "3-Ways-to-come",
+    "label": "来校方式",
     "collapsible": "true",
     "collapsed": "false"
   }

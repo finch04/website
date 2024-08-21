@@ -8,21 +8,14 @@
   },
   {
     "type": "dir",
-    "name": "2-Transportation-Overview",
-    "label": "Transportation Overview",
+    "name": "2-Transportation",
+    "label": "Brief introduction to transportation in Tianjin",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
-    "type": "dir",
-    "name": "3-Subway",
-    "label": "Subway",
-    "collapsible": "true",
-    "collapsed": "false"
-  },
-  {
-    "type": "dir",
-    "name": "4-Ways-to-come",
+    "type": "file",
+    "name": "3-Ways-to-come",
     "label": "Ways to come to school",
     "collapsible": "true",
     "collapsed": "false"
