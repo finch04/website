@@ -15,21 +15,28 @@
   },
   {
     "type": "dir",
-    "name": "3-school",
-    "label": "学校生活指南",
+    "name": "3-school-inside",
+    "label": "校内生活指南",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "4-city",
+    "name": "4-school-outside",
+    "label": "校外探索指南",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "5-city",
     "label": "津外生源指南",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "5-appendix",
+    "name": "6-appendix",
     "label": "附录",
     "collapsible": "true",
     "collapsed": "false"
