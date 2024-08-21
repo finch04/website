@@ -2,7 +2,7 @@
   {
     "type": "file",
     "name": "1-city",
-    "label": "Introduction to the city and surrounding urban areas",
+    "label": "Introduction to the city",
     "collapsible": "true",
     "collapsed": "false"
   },

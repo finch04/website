@@ -1,4 +1,4 @@
-# OpenConverter 培养培养计划
+# OpenConverter 培养计划
 
 ## 项目介绍
 

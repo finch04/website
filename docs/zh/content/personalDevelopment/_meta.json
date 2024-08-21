@@ -1,0 +1,30 @@
+[
+    {
+      "type": "file",
+      "name": "index",
+      "label": "培养计划与学习路线总览",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "file",
+      "name": "JavaBasicLearningRoute",
+      "label": "Java",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "file",
+      "name": "OpenConverterBasicLearningRoute",
+      "label": "OpenConverter",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "file",
+      "name": "Internet",
+      "label": "互联网+",
+      "collapsible": "true",
+      "collapsed": "false"
+    }
+]
