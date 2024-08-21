@@ -31,10 +31,6 @@ features:
   #   details: The club MC server, with its stable operation, rich community activities, friendly community atmosphere, organized team gameplay, customized gaming experience, and good security, provides players with a higher quality and fun Minecraft gaming environment. Club members can also relax during their busy studies.
   #   link: https://gitee.com/TSGU-OSC
   #   icon: 📦️
-  # - title: Stable Diffusion In Club
-  #   details: AI painting technology can help club members improve their artistic creation level and efficiency. By utilizing AI painting software, club members can easily generate images of various styles and gain new creative inspiration.
-  #   link: http://172.19.15.12:7860/
-  #   icon: 🎨
   - title: Open WebUI
     details: The community's private platform for using large language models provides secure and reliable intelligent tools, efficient reasoning capabilities, and meets the needs of text generation, question answering analysis, and more.
     link: http://172.19.15.11:3000/ 
@@ -43,10 +39,14 @@ features:
     details: Alist storage system is a comprehensive, easy-to-use, and easily expandable file list program that can easily manage and access files in various storage services. The club uses it to store relevant learning materials, which can achieve resource sharing.
     link: http://172.19.15.13:5244/
     icon: 💾
-  - title: Club Management System
-    details: Convenient for club members to manage their personal information here, and also manage club announcements. Improved the cohesion of the club and facilitated the communication of club members.
-    link: http://10.21.101.44:80
-    icon: ®
+  # - title: Club Management System
+  #   details: Convenient for club members to manage their personal information here, and also manage club announcements. Improved the cohesion of the club and facilitated the communication of club members.
+  #   link: http://10.21.101.44:80
+  #   icon: ®
+  - title: Stable Diffusion In Club
+    details: AI painting technology can help club members improve their artistic creation level and efficiency. By utilizing AI painting software, club members can easily generate images of various styles and gain new creative inspiration.
+    link: http://172.19.15.12:7860/
+    icon: 🎨
   - title: TSGU-OSC participates in Huawei Ascend AI Creation Day · Tianjin Station event
     details: This event aims to promote and develop AI artificial intelligence for teachers and students through the three dimensions of "new technology, new experience, and new opportunities", create new value for developers, and continuously enrich their achievements
     link: https://mp.weixin.qq.com/s/H5p6v4dtPTTlES88ZxXI8w
