@@ -201,7 +201,7 @@
  
 > 不同的 Markdown 应用程序处理 `#` 和标题之间的空格方式并不一致。为了兼容考虑，请用一个空格在 `#` 和标题之间进行分隔。
 >
->![Tag](../../public/technical/markdown/Tag.png)	
+>![Tag](../../../public/technical/Basic-knowledge/markdown/Tag.png)	
  
 *在官方文档中另外有一可选语法，想要了解的同学请搜索官方文档查看*
    
@@ -222,7 +222,7 @@
    
 > 不要用空格（spaces）或制表符（tabs）缩进段落。
 >
->![Paragraphs](../../public/technical/markdown/Paragraphs.png)
+>![Paragraphs](../../../public/technical/Basic-knowledge/markdown/Paragraphs.png)
    
    
 #### 换行语法
@@ -262,7 +262,7 @@
 > 为了兼容性，请在行尾添加“结尾空格”或 HTML 的 `<br>` 标签来实现换行。
 >
 > 还有两种其他方式我并不推荐使用。CommonMark 和其它几种轻量级标记语言支持在行尾添加反斜杠 (`\`) 的方式实现换行，但是并非所有 Markdown 应用程序都支持此种方式，因此从兼容性的角度来看，不推荐使用。并且至少有两种轻量级标记语言支持无须在行尾添加任何内容，只须键入回车键（`return`）即可实现换行。
->![Line-feed](../../public/technical/markdown/Line-feed.png)  
+>![Line-feed](../../../public/technical/Basic-knowledge/markdown/Line-feed.png)  
 
 #### 强调语法
    
@@ -359,7 +359,7 @@ Markdown是一种***轻量级标记语言***，排版语法简洁，让人们更
    
 > Markdown 应用程序在如何处理单词或短语中间的下划线上并不一致。为兼容考虑，在单词或短语中间部分加粗的话，请使用星号（asterisks）。
 >
->![Emphasis-bold](../../public/technical/markdown/Emphasis-bold.png)
+>![Emphasis-bold](../../../public/technical/Basic-knowledge/markdown/Emphasis-bold.png)
 
    
 #### 引用语法
@@ -499,7 +499,7 @@ Markdown是一种***轻量级标记语言***，排版语法简洁，让人们更
   ```
   - 文段1
   - 文段2
-  ![Linux](../../public/technical/markdown/Linux.png)
+  ![Linux](../../../public/technical/Basic-knowledge/markdown/Linux.png)
   // ![图片Alt](图片地址)
   - 文段4
   ```
@@ -557,7 +557,7 @@ Markdown是一种***轻量级标记语言***，排版语法简洁，让人们更
   - 图片
     - 文段1
     - 文段2
-    ![Linux](../../public/technical/markdown/Linux.png)
+    ![Linux](../../../public/technical/Basic-knowledge/markdown/Linux.png)
     - 文段4
    
   - 列表
@@ -580,7 +580,7 @@ Markdown是一种***轻量级标记语言***，排版语法简洁，让人们更
 >
 > **// 原文档没有翻译，使用了机翻，逻辑与表达上可能存在某些问题** 
 >
-> ![List-Ordered](../../public/technical/markdown/List-Ordered.png)
+> ![List-Ordered](../../../public/technical/Basic-knowledge/markdown/List-Ordered.png)
   
 - 无序列表
   
@@ -588,7 +588,7 @@ Markdown是一种***轻量级标记语言***，排版语法简洁，让人们更
 >
 > **// 原文档没有翻译，使用了机翻，逻辑与表达上可能存在某些问题** 
 >
-> ![List-unordered](../../public/technical/markdown/List-unordered.png)
+> ![List-unordered](../../../public/technical/Basic-knowledge/markdown/List-unordered.png)
    
    
 #### 代码语法
@@ -681,7 +681,7 @@ ___
   
 > 为了兼容性，请在分隔线的前后均添加空白行。
 >
-> ![Segmentation](../../public/technical/markdown/Segmentation.png)
+> ![Segmentation](../../../public/technical/Basic-knowledge/markdown/Segmentation.png)
   
    
 #### 链接语法
@@ -765,11 +765,11 @@ We can learn the basic grammer in **[markdown基本语法](https://markdown.com.
   
  - 第一种：
   
-![Example1](../../public/technical/markdown/Example1.png)
+![Example1](../../../public/technical/Basic-knowledge/markdown/Example1.png)
   
 - 第二种：
   
-[![示例图片2](../../public/technical/markdown/Example2.png)](https://markdown.com.cn/)
+[![示例图片2](../../../public/technical/Basic-knowledge/markdown/Example2.png)](https://markdown.com.cn/)
   
 ==需要按住`Crtl`，并且点击图片，才能跳转网页==
   
@@ -1028,19 +1028,19 @@ Markdown还有很多高级用法，比如：
 
 #### **流程图**  
 
-![Flow-chart](../../public/technical/markdown/Flow-chart.png)
+![Flow-chart](../../../public/technical/Basic-knowledge/markdown/Flow-chart.png)
 
 #### **时序图，也称序列图**
 
-![Sequence-diagram](../../public/technical/markdown/Sequence-diagram.png)
+![Sequence-diagram](../../../public/technical/Basic-knowledge/markdown/Sequence-diagram.png)
 
 #### **思维导图**  
 
-![Logic-diagram](../../public/technical/markdown/Logic-diagram.png)
+![Logic-diagram](../../../public/technical/Basic-knowledge/markdown/Logic-diagram.png)
 
 #### **甘特图**
  
-![Gantt-chart](../../public/technical/markdown/Gantt-chart.png)
+![Gantt-chart](../../../public/technical/Basic-knowledge/markdown/Gantt-chart.png)
  
 - 甘特图（Gantt chart）又称为横道图、条状图（Bar chart），通过条状图来显示项目、进度和其他时间相关的系统进展的**内在关系**随着时间进展的情况。以提出者**亨利·劳伦斯·甘特**（Henry Laurence Gantt）先生的名字命名。
 - 百度百科：[甘特图_百度百科 (baidu.com)](https://baike.baidu.com/item/甘特图/113232)

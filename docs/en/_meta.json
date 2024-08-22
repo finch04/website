@@ -1,8 +1,8 @@
 [
   {
     "text": "technical documentation",
-    "link": "../zh/technical/1-foreword",
-    "activeMatch": "../zh/technical/1-foreword"
+    "link": "../zh/technical/1-Overview",
+    "activeMatch": "../zh/technical/1-Overview"
   },
   {
     "text": "Announcement",
