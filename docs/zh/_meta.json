@@ -1,5 +1,10 @@
 [
   {
+    "text": "技术文档",
+    "link": "../zh/technical/1-foreword",
+    "activeMatch": "../zh/technical/1-foreword"
+  },
+  {
     "text": "社团公告",
     "link": "/announcement/",
     "activeMatch": "/announcement/",

@@ -7,21 +7,21 @@
     "collapsed": "false"
   },
   {
-    "type": "dir",
+    "type": "file",
     "name": "2-School-Plan",
     "label": "School plan",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
-    "type": "dir",
+    "type": "file",
     "name": "3-School-and-Surrounding",
     "label": "Campus and surrounding area",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
-    "type": "dir",
+    "type": "file",
     "name": "4-Library",
     "label": "Library-introduction",
     "collapsible": "true",
@@ -30,7 +30,7 @@
   {
     "type": "dir",
     "name": "5-Live",
-    "label": "Diet, accommodation, and daily routine",
+    "label": "Live",
     "collapsible": "true",
     "collapsed": "false"
   }

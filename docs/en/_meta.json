@@ -1,5 +1,10 @@
 [
   {
+    "text": "technical documentation",
+    "link": "../zh/technical/1-foreword",
+    "activeMatch": "../zh/technical/1-foreword"
+  },
+  {
     "text": "Announcement",
     "link": "/announcement/",
     "activeMatch": "/announcement/",
