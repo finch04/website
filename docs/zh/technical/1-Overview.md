@@ -20,7 +20,7 @@
 
 ## Linux 运维
 
-- [基本的 Linux 命令行操作](./Basic-knowledge/Linux_command.md)
+- [基本的 Linux 命令行操作](./Basic-knowlegde/Linux_command.md)
 - [conda环境名称无法显示的解决方案](./Back-end/C/Conda.md)
 - [Linux_grub启动](./Operation-and-Maintenance/Linux_grub.md)
 - [smb文件传输协议的使用](./Operation-and-Maintenance/linux_smb.md)
