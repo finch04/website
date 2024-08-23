@@ -29,6 +29,13 @@
     },
     {
       "type": "file",
+      "name": "AIBasicLearningRoute",
+      "label": "AI",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "file",
       "name": "Internet",
       "label": "互联网+",
       "collapsible": "true",
