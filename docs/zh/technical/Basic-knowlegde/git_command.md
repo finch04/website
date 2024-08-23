@@ -15,87 +15,107 @@ Git是一种分布式版本控制系统，它可以记录文件的变更历史�
 * 远程仓库：远程仓库（Remote Repository）是指保存在远程服务器上的Git仓库。它包含了与本地仓库相同的内容，但它是由多个开发者共享的中央代码库。开发者可以通过git push命令将本地仓库中的变更推送到远程仓库，也可以通过git pull命令将远程仓库的变更更新至本地仓库。
 
 ## 信息配置
+
 ```
 git config --global user.name "你的用户名"
 git config --global user.email "你的邮箱"
 ```
 
 ### 代理配置
+
 ```
 git config --global http.proxy http://127.0.0.1:7890
 ```
 
 ## 查看信息
+
 ```
 git config --list
 ```
+
 ## 操作仓库
+
 拉取远程仓库
+
 ```
 git clone https://github.com/JackLau1222/ffmpeg-GUI
 ```
 
 更新本地仓库(自动同步)
+
 ```
 git pull 
 ```
 
 更新本地仓库(手动同步)
+
 ```
 git fetch 
 git merge 
 ```
 
 添加一个名为test的cpp文件（Unix/Linux）
+
 ```
 touch test.cpp 
 ```
 
 添加一个名为test的cpp文件（Windows）
+
 ```
 type nul > test.cpp
 ```
 
 将此更改提交到缓冲区
+
 ```
 git add test.cpp 
 ```
 
 将更改提交到本地仓库
+
 ```
 git commit -a -m “add test.cpp” 
 ```
 
 提交到目标仓库
+
 ```
 git push
 ```
 
 查看提交日志
+
 ```
 git log
 ```
 
 查看提交状态
+
 ```
 git status
 ```
 
 代码回滚
+
 ```
 git reset --hard <commit_id>
 ```
 
 使远程仓库回滚生效
+
 ```
 git push orgin main --force
 ```
 
 ### 查看可用分支
+
 ```
 git branch
 ```
+
 ### 切换到可用分支
+
 ```
 git checkout <branch-name>
 ```
@@ -103,17 +123,20 @@ git checkout <branch-name>
 ## 修改历史记录
 
 使用filter-branch工具删除指定文件"*.ipch"
+
 ```
 git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch **/*.ipch' --prune-empty --tag-name-filter cat -- --all
 ```
 
 
 使用bfg工具删除指定文件夹名
+
 ```
 bfg --delete-folders ".vs"  
 ```
 
 删除后执行以下命令实现垃圾回收，合并对象
+
 ```
 git reflog expire --expire=now --all && git gc --prune=now --aggressive 
 ```

@@ -21,7 +21,7 @@
 ## Linux 运维
 
 - [基本的 Linux 命令行操作](./Basic-knowledge/Linux_command.md)
-- [conda环境名称无法显示的解决方案](./Back-end/C++/Conda.md)
+- [conda环境名称无法显示的解决方案](./Back-end/C/Conda.md)
 - [Linux_grub启动](./Operation-and-Maintenance/Linux_grub.md)
 - [smb文件传输协议的使用](./Operation-and-Maintenance/linux_smb.md)
 - [三种shell的介绍](./Operation-and-Maintenance/shell.md)
@@ -48,15 +48,15 @@
 
 ## 环境配置
 
-- [vs code C开发环境搭建](./Back-end/C++/C_Environment_Configuration/1-README.md)
+- [vs code C开发环境搭建](./Back-end/C/C_Environment_Configuration/1-README.md)
 
-- [Conda及python的环境配置](./Back-end/C++/Conda_Environment.md)
+- [Conda及python的环境配置](./Back-end/C/Conda_Environment.md)
 
 - [Node.js环境配置](./Front-end/nodeJsMarkdown.md)
 
 ## 基础知识
 
-- [总览](./Basic-knowledge/1-Overview.md)
+- [总览](./Basic-knowlegde/1-Overview.md)
 
 ## 其他主题
 

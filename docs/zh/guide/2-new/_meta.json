@@ -28,8 +28,15 @@
     "collapsed": "false"
   },
   {
+    "type": "dir",
+    "name": "5-Campus-Water-card",
+    "label": "校园卡及水卡使用方法",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
     "type": "file",
-    "name": "5-Q&A",
+    "name": "6-Q&A",
     "label": "新生问答",
     "collapsible": "true",
     "collapsed": "false"

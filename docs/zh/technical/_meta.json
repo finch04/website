@@ -14,11 +14,11 @@
     "collapsed": "false"
   },
   {
-    "type": "dir",
-    "name": "Basic-Knowledge",
-    "label": "基础知识",
-    "collapsible": "true",
-    "collapsed": "false"
+    "type":"dir",
+    "name":"Basic-knowlegde",
+    "label":"基础知识",
+    "collapsible":"true",
+    "collapsed":"false"
   },
   {
     "type": "dir",
