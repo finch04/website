@@ -10,7 +10,7 @@ hero:
       text: 📖Content
       link: /en/content/
     - theme: brand
-      text: Freshman's Guide
+      text:  🧭Guide
       link: /en/guide/1-foreword/1-foreword
     - theme: alt
       text: 👤Member

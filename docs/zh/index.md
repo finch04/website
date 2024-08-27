@@ -10,7 +10,7 @@ hero:
       text: 📖社团简介
       link: /content/
     - theme: brand
-      text: 新生指南
+      text: 🧭新生指南
       link: /guide/1-foreword/1-foreword
     - theme: alt
       text: 👤社团成员
