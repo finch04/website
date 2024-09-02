@@ -9,7 +9,7 @@
   {
     "type": "dir",
     "name": "2-Materials-and-Examination",
-    "label": "新生需准备材料",
+    "label": "新生需准备材料及入学考试",
     "collapsible": "true",
     "collapsed": "false"
   },
@@ -36,7 +36,14 @@
   },
   {
     "type": "file",
-    "name": "6-Q&A",
+    "name": "6-Electricity-and-Air-conditioning",
+    "label": "缴纳电费和空调电费的方法",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "7-Q&A",
     "label": "新生问答",
     "collapsible": "true",
     "collapsed": "false"
