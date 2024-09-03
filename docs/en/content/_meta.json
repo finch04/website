@@ -2,21 +2,21 @@
     {
       "type": "file",
       "name": "index",
-      "label": "社团介绍",
+      "label": "Introduction",
       "collapsible": "true",
       "collapsed": "false"
     },
     {
       "type": "file",
       "name": "member",
-      "label": "社团成员",
+      "label": "Member",
       "collapsible": "true",
       "collapsed": "false"
     },
     {
       "type": "dir",
       "name": "personalDevelopment",
-      "label": "社团人才培养计划",
+      "label": "Talent development program",
       "collapsible": "true",
       "collapsed": "false"
     }

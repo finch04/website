@@ -13,8 +13,8 @@ hero:
       text: 🧭新生指南
       link: /guide/1-foreword/1-foreword
     - theme: alt
-      text: 👤社团成员
-      link: /member/
+      text: 👤纳新手册
+      link: /recruitment/
   image:
     src: /icon-l.jpg
     alt: Logo
