@@ -13,7 +13,7 @@ hero:
       text: 🧭新生指南
       link: /guide/1-foreword/1-foreword
     - theme: alt
-      text: 👤纳新手册
+      text: 👤2024纳新
       link: /recruitment/
   image:
     src: /icon-l.jpg

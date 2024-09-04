@@ -13,8 +13,8 @@ hero:
       text:  🧭Guide
       link: /en/guide/1-foreword/1-foreword
     - theme: alt
-      text: 👤Member
-      link: /en/member/
+      text: 👤2024 Recruitment
+      link: /en/recruitment/
   image:
     src: /icon-l-en.jpg
     alt: Logo

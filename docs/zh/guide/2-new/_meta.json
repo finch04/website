@@ -14,36 +14,50 @@
     "collapsed": "false"
   },
   {
-    "type": "dir",
-    "name": "3-Financial-aid-and-Archives",
-    "label": "奖助学金及档案管理规定",
+    "type": "file",
+    "name": "3-Financial-aid-policy",
+    "label": "资助及奖助学金政策",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "4-Reqiurement-about-school-and-major",
-    "label": "学校要求和专业设置",
+    "name": "4-archives-management",
+    "label": "学籍管理及学籍档案管理规定",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "5-League-organization-relations-transfer",
+    "label": "团组织关系转接",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "5-Campus-Water-card",
+    "name": "6-Reqiurement-about-school-and-major",
+    "label": "学校要求及专业设置",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "7-Electricity-and-Air-conditioning",
+    "label": "缴纳电费和空调电费的方法",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "8-Campus-Water-card",
     "label": "校园卡及水卡使用方法",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "file",
-    "name": "6-Electricity-and-Air-conditioning",
-    "label": "缴纳电费和空调电费的方法",
-    "collapsible": "true",
-    "collapsed": "false"
-  },
-  {
-    "type": "file",
-    "name": "7-Q&A",
+    "name": "9-Q&A",
     "label": "新生问答",
     "collapsible": "true",
     "collapsed": "false"
