@@ -14,36 +14,50 @@
     "collapsed": "false"
   },
   {
-    "type": "dir",
-    "name": "3-Financial-aid-and-Archives",
-    "label": "Awards and grants and archives management regulations",
+    "type": "file",
+    "name": "3-Financial-aid-policy",
+    "label": "Financial aid policy",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "4-Reqiurement-about-school-and-major",
-    "label": "School requirements and professional Settings",
-    "collapsible": "true",
-    "collapsed": "false"
-  },
-  {
-    "type": "dir",
-    "name": "5-Campus-Water-card",
-    "label": "Campus card and Water card",
+    "name": "4-Archives-management",
+    "label": "Regulations on the management of school records and school records",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "file",
-    "name": "6-Electricity-and-Air-conditioning",
-    "label": "Methods for paying electricity and air conditioning fees",
+    "name": "5-League-organization-relations-transfer",
+    "label": "Transfer of league organization relationship",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "6-Reqiurement-about-school-and-major",
+    "label": "Reqiurement about school and major",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "file",
-    "name": "7-Q&A",
+    "name": "7-Electricity-and-Air-conditioning",
+    "label": "The methods for pay for electricity and air conditioning",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "8-Campus-Water-card",
+    "label": "The methods for use campus card and water card",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "9-Q&A",
     "label": "Q&A",
     "collapsible": "true",
     "collapsed": "false"
