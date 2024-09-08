@@ -22,10 +22,12 @@ The club follows a three-step train of thought
 
 In the past year, the core members of the association actively participated in various competitions, such as "Internet +", etc., and won a national award once, a municipal award once, a silver award once, a bronze award twice, as well as the Blue Bridge Cup and other various competitions, a total of one national award and six municipal awards. We also published a paper and a patent each, and in addition, we established a partnership with the Huawei Developer Alliance and created a community based on the Huawei Student Developer (HSD) organization. At the same time, we have become an excellent unit of the Open Atoms Foundation.
 
-**New member QQ group picture**
+### New member QQ group picture
+
 ![New member QQ group picture](../../public/guide/foreword/foreword_1.jpg)
 
-**2024-2025 Openharmony recruitment form**
+### 2024-2025 Openharmony recruitment form
+
 ![2024-2025 Openharmony recruitment form](../../public/recruitment/纳新表二维码.png)
 
 ### Responsibilities of all departments in the community
