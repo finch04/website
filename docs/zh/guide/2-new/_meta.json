@@ -8,8 +8,8 @@
   },
   {
     "type": "dir",
-    "name": "2-Materials-and-Examination",
-    "label": "新生需准备材料及入学考试",
+    "name": "2-Materials-Required",
+    "label": "入学材料准备",
     "collapsible": "true",
     "collapsed": "false"
   },

@@ -8,8 +8,8 @@
   },
   {
     "type": "dir",
-    "name": "2-Materials-and-Examination",
-    "label": "Materials required and entrance examination requirements",
+    "name": "2-Materials-Required",
+    "label": "Preparation of admission materials",
     "collapsible": "true",
     "collapsed": "false"
   },
