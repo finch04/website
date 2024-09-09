@@ -7,57 +7,64 @@
     "collapsed": "false"
   },
   {
-    "type": "dir",
-    "name": "2-Materials-Required",
-    "label": "Preparation of admission materials",
+    "type": "file",
+    "name": "2-Admission-Notice",
+    "label": "New Student Admission Notice",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "file",
-    "name": "3-Financial-aid-policy",
+    "name": "3-Materials-Required",
+    "label": "Preparation of New Student Enrollment Materials",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "4-Financial-aid-policy",
     "label": "Financial aid policy",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "4-Archives-management",
+    "name": "5-Archives-management",
     "label": "Regulations on the management of school records and school records",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "file",
-    "name": "5-League-organization-relations-transfer",
+    "name": "6-League-organization-relations-transfer",
     "label": "Transfer of league organization relationship",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "6-Reqiurement-about-school-and-major",
+    "name": "7-Reqiurement-about-school-and-major",
     "label": "Reqiurement about school and major",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "file",
-    "name": "7-Electricity-and-Air-conditioning",
+    "name": "8-Electricity-and-Air-conditioning",
     "label": "The methods for pay for electricity and air conditioning",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "dir",
-    "name": "8-Campus-Water-card",
+    "name": "9-Campus-Water-card",
     "label": "The methods for use campus card and water card",
     "collapsible": "true",
     "collapsed": "false"
   },
   {
     "type": "file",
-    "name": "9-Q&A",
+    "name": "10-Q&A",
     "label": "Q&A",
     "collapsible": "true",
     "collapsed": "false"
