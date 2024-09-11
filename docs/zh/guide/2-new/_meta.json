@@ -56,9 +56,9 @@
     "collapsed": "false"
   },
   {
-    "type": "dir",
-    "name": "9-Campus-Water-card",
-    "label": "校园卡及水卡使用方法",
+    "type": "file",
+    "name": "9-Campus-card",
+    "label": "校园卡使用方法",
     "collapsible": "true",
     "collapsed": "false"
   },

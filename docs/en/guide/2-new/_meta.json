@@ -56,9 +56,9 @@
     "collapsed": "false"
   },
   {
-    "type": "dir",
-    "name": "9-Campus-Water-card",
-    "label": "The methods for use campus card and water card",
+    "type": "file",
+    "name": "9-Campus-card",
+    "label": "The methods for use campus card",
     "collapsible": "true",
     "collapsed": "false"
   },

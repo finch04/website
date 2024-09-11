@@ -8,7 +8,7 @@ This guide is intended to provide incoming students with important information b
 5. Transfer of league organization relationship
 6. Reqiurement about school and major
 7. The methods for pay for electricity and air conditioning
-8. The methods for use campus card and water card
+8. The methods for use campus card
 9. Freshmen Q&A
 
 #### Note:
