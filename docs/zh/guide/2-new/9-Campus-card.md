@@ -4,7 +4,7 @@
 
 终于迎来开学季，亲爱的同学们会拿到学校为你们准备的一张功能齐全，伴你整个大学生活的**校园卡**。我们先来认识认识它吧。
 
-![img1](../../../../public/guide/new/5-Campus-Water-card/img1.png)
+![img1](../../../public/guide/new/5-Campus-Water-card/img1.png)
 
 卡的样式你还喜欢吗？校训和校名的完美结合是不是很赞？赶快来看看它的功能吧！
 
@@ -12,34 +12,34 @@
 
 关于如何优雅地让帅哥and美女同学不再排队充值，我们开通了**支付宝**转账功能，方法如下，快来观摩......
 
-![img2](../../../../public/guide/new/5-Campus-Water-card/img2.png)
+![img2](../../../public/guide/new/5-Campus-Water-card/img2.png)
 
 打开手机支付宝------搜索“校园一卡通”
 
-![img3](../../../../public/guide/new/5-Campus-Water-card/img3.png)
+![img3](../../../public/guide/new/5-Campus-Water-card/img3.png)
 
 找到 “绑定校园卡”------选择学校输入“天津中德应用技术大学”
 
-![img4](../../../../public/guide/new/5-Campus-Water-card/img4.jpg)
+![img4](../../../public/guide/new/5-Campus-Water-card/img4.jpg)
 
 校验方式请点开 “ > ”
 
-![img5](../../../../public/guide/new/5-Campus-Water-card/img5.jpg)
+![img5](../../../public/guide/new/5-Campus-Water-card/img5.jpg)
 
 选择身份证号验证
 
-![img6](../../../../public/guide/new/5-Campus-Water-card/img6.jpg)
+![img6](../../../public/guide/new/5-Campus-Water-card/img6.jpg)
 
 根据提示信息输入证件号码，即可充值
 
-![img7](../../../../public/guide/new/5-Campus-Water-card/img7.jpg)
+![img7](../../../public/guide/new/5-Campus-Water-card/img7.jpg)
 
 ### 注意
 开学季可能会遇到充值绑定高峰
 
 若界面无反应，**刷新**即可
 
-![img8](../../../../public/guide/new/5-Campus-Water-card/img8.jpg)
+![img8](../../../public/guide/new/5-Campus-Water-card/img8.jpg)
 
 ## 使用篇
 亲爱的同学们：
@@ -63,11 +63,11 @@
 
 也可以在支付宝“校园一卡通”进行挂失
 
-![img9](../../../../public/guide/new/5-Campus-Water-card/img9.jpg)
+![img9](../../../public/guide/new/5-Campus-Water-card/img9.jpg)
 
 查询密码为身份证后六位数字
 
-![img10](../../../../public/guide/new/5-Campus-Water-card/img10.jpg)
+![img10](../../../public/guide/new/5-Campus-Water-card/img10.jpg)
 
 挂失很重要   千万别等钱都被人盗刷后才想起来自己没挂失！
 
@@ -92,7 +92,7 @@
 
 - 制卡费用 ：15元 （补卡前账户内余额需大于15元）
 
-![img11](../../../../public/guide/new/5-Campus-Water-card/img11.jpg)
+![img11](../../../public/guide/new/5-Campus-Water-card/img11.jpg)
 
 ## 使用地点篇
 
@@ -104,7 +104,7 @@
 
 - 4. 宿舍、图书馆门禁，需要刷卡方可使用。
 
-![H6 公寓门禁](../../../../public/guide/new/5-Campus-Water-card/img12.jpg)
+![H6 公寓门禁](../../../public/guide/new/5-Campus-Water-card/img12.jpg)
 
 这是 H6 公寓门禁
 

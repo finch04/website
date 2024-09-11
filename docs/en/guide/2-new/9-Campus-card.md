@@ -4,7 +4,7 @@
 
 It is finally the beginning of the semester, and dear students will get a fully functional **campus card** prepared for you by the school to accompany your entire college life. Let's get to know him first.
 
-![img1](../../../../public/guide/new/5-Campus-Water-card/img1.png)
+![img1](../../../public/guide/new/5-Campus-Water-card/img1.png)
 
 Do you like the style of the card? Isn't the combination of motto and name awesome? Come and see what it does!
 
@@ -12,34 +12,34 @@ Do you like the style of the card? Isn't the combination of motto and name aweso
 
 On how to gracefully let handsome and beautiful students no longer queue up to recharge, we opened the **Alipay** transfer function, the method is as follows, come and watch......
 
-![img2](../../../../public/guide/new/5-Campus-Water-card/img2.png)
+![img2](../../../public/guide/new/5-Campus-Water-card/img2.png)
 
 Open Alipay ------ and search for "Campus ID Card"
 
-![img3](../../../../public/guide/new/5-Campus-Water-card/img3.png)
+![img3](../../../public/guide/new/5-Campus-Water-card/img3.png)
 
 Find the "Bind Campus Card" ------ Select the school and enter "Tianjin Sino-German University of Applied Technology"
 
-![img4](../../../../public/guide/new/5-Campus-Water-card/img4.jpg)
+![img4](../../../public/guide/new/5-Campus-Water-card/img4.jpg)
 
 Check method Please click ">"
 
-![img5](../../../../public/guide/new/5-Campus-Water-card/img5.jpg)
+![img5](../../../public/guide/new/5-Campus-Water-card/img5.jpg)
 
 Select ID number verification
 
-![img6](../../../../public/guide/new/5-Campus-Water-card/img6.jpg)
+![img6](../../../public/guide/new/5-Campus-Water-card/img6.jpg)
 
 Enter the ID number according to the prompt information, you can recharge
 
-![img7](../../../../public/guide/new/5-Campus-Water-card/img7.jpg)
+![img7](../../../public/guide/new/5-Campus-Water-card/img7.jpg)
 
 ### Attention
 The school season may encounter the peak of top-up binding
 
 If the interface does not respond, **refresh**~
 
-![img8](../../../../public/guide/new/5-Campus-Water-card/img8.jpg)
+![img8](../../../public/guide/new/5-Campus-Water-card/img8.jpg)
 
 ## Use text
 Dear students,
@@ -63,11 +63,11 @@ After losing the card, please report the loss of the campus card to the 24-hour 
 
 You can also report the loss on the Alipay Campus card
 
-![img9](../../../../public/guide/new/5-Campus-Water-card/img9.jpg)
+![img9](../../../public/guide/new/5-Campus-Water-card/img9.jpg)
 
 The query password is the last six digits of the ID card
 
-![img10](../../../../public/guide/new/5-Campus-Water-card/img10.jpg)
+![img10](../../../public/guide/new/5-Campus-Water-card/img10.jpg)
 
 It's important to report the loss. Don't wait for the money to be stolen before you realize you didn't report it!
 
@@ -92,7 +92,7 @@ There are two card replacement machines in the 24-hour service hall
 
 - Business card printing cost: 15 yuan (the balance in the account before the card needs to be greater than 15 yuan)
 
-![img11](../../../../public/guide/new/5-Campus-Water-card/img11.jpg)
+![img11](../../../public/guide/new/5-Campus-Water-card/img11.jpg)
 
 ## Use place text
 
@@ -104,7 +104,7 @@ There are two card replacement machines in the 24-hour service hall
 
 - 4. Dormitory, library access control, you need to swipe card to use.
 
-![H6 公寓门禁](../../../../public/guide/new/5-Campus-Water-card/img12.jpg)
+![H6 公寓门禁](../../../public/guide/new/5-Campus-Water-card/img12.jpg)
 
 This is Apartment H6 access
 
