@@ -17,7 +17,7 @@ We are a community dedicated to promoting the development of open source technol
 
 ### Club Warehouse Navigation
 
-- [Click to enter the navigation repository](../../../OSC_main)
+- [Click to enter the navigation repository](https://gitee.com/TSGU-OSC/OSC_main)
 
 ### Club activities
 We will regularly hold various activities, including:
