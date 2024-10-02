@@ -1,4 +1,4 @@
-# Windows配置VSCode的C/C++环境
+# Windows配置Visual Studio Code C/C++开发环境
 
 ## 一、下载
 

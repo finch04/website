@@ -1,4 +1,4 @@
-# 配置Viusal Studio Code C/C++开发环境
+# Mac配置Visual Studio Code C/C++开发环境
 
 ## Mac
 

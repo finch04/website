@@ -204,6 +204,7 @@
 
 *在官方文档中另外有一可选语法，想要了解的同学请搜索官方文档查看*
 
+---
 
 #### 段落语法
 
@@ -223,6 +224,7 @@
 >
 > ![Paragraphs](../../../public/technical/Basic-knowledge/markdown/Paragraphs.png)
 
+---
 
 #### 换行语法
 
@@ -247,7 +249,7 @@
 文档  
 打开源代码模式可以看到`文档`后面有`↓`，即是换行）
 
----
+或者
 
 文档
 
@@ -262,6 +264,8 @@
 >
 > 还有两种其他方式我并不推荐使用。CommonMark 和其它几种轻量级标记语言支持在行尾添加反斜杠 (`\`) 的方式实现换行，但是并非所有 Markdown 应用程序都支持此种方式，因此从兼容性的角度来看，不推荐使用。并且至少有两种轻量级标记语言支持无须在行尾添加任何内容，只须键入回车键（`return`）即可实现换行。
 > ![Line-feed](../../../public/technical/Basic-knowledge/markdown/Line-feed.png)  
+
+---
 
 #### 强调语法
 
@@ -360,6 +364,7 @@ Markdown是一种***轻量级标记语言***，排版语法简洁，让人们更
 >
 > ![Emphasis-bold](../../../public/technical/Basic-knowledge/markdown/Emphasis-bold.png)
 
+---
 
 #### 引用语法
 
@@ -419,6 +424,7 @@ Markdown是一种***轻量级标记语言***，排版语法简洁，让人们更
 >
 >*It always* seems impossible until it's done.
 
+---
 
 #### 列表语法
 
@@ -448,6 +454,8 @@ Markdown是一种***轻量级标记语言***，排版语法简洁，让人们更
 1.
 ...
 ```
+
+---
 
 ##### 无序列表
 
@@ -601,6 +609,7 @@ Markdown是一种***轻量级标记语言***，排版语法简洁，让人们更
 >
 > ![List-unordered](../../../public/technical/Basic-knowledge/markdown/List-unordered.png)
 
+---
 
 #### 代码语法
 
@@ -661,7 +670,7 @@ The road to success and the road to failure are almost exactly the same.
 
   // 中间的为代码块，区别于围栏式代码
 
-   
+---
 
 #### 分割线语法
 
@@ -697,6 +706,7 @@ ___
 >
 > ![Segmentation](../../../public/technical/Basic-knowledge/markdown/Segmentation.png)
 
+---
 
 #### 链接语法
 
@@ -753,6 +763,7 @@ We can learn the basic grammer in **[markdown基本语法](https://markdown.com.
 
 We can learn the basic grammer in **[markdown基本语法](https://markdown.com.cn/intro.html)**
 
+---
 
 #### 图片语法
 
@@ -791,7 +802,7 @@ We can learn the basic grammer in **[markdown基本语法](https://markdown.com.
 
 - 插入图片：Crtl + Shift + I  
 
-  
+---
 
 #### 转义字符语法
 
@@ -825,7 +836,9 @@ We can learn the basic grammer in **[markdown基本语法](https://markdown.com.
 
 ==所有符号都是英文字符==
 
-#### 内嵌HTML标签语法^*^
+---
+
+#### 内嵌HTML标签语法
 
 **即Markdown语法可以与HTML语法混用**  
 
@@ -848,7 +861,7 @@ We can learn the basic grammer in **[markdown基本语法](https://markdown.com.
 
 - 下标：5~Y~
 
-  
+---
 
 #### 表格
 
@@ -871,6 +884,7 @@ We can learn the basic grammer in **[markdown基本语法](https://markdown.com.
 
 **[Markdown 表格 | Markdown 官方教程](https://markdown.com.cn/extended-syntax/tables.html)**
 
+---
 
 #### 删除线
 
@@ -884,6 +898,7 @@ We can learn the basic grammer in **[markdown基本语法](https://markdown.com.
 
 ~~文段~~
 
+---
 
 #### 任务列表
 
@@ -905,9 +920,7 @@ We can learn the basic grammer in **[markdown基本语法](https://markdown.com.
 
 ==不同主题不同样式==
 
-   
-
-   
+---   
 
 #### emoji表情
 
@@ -927,6 +940,7 @@ We can learn the basic grammer in **[markdown基本语法](https://markdown.com.
 
 :disappointed:
 
+---
 
 #### 数学公式语法
 
@@ -996,6 +1010,7 @@ $$
 
 **也可以自行搜索了解**
 
+---
 
 #### 脚注语法
 

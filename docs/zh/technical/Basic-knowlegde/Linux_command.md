@@ -117,7 +117,7 @@ du -h --max-depth=0 directory
 
 ## 互传文件
 
-### 本地向Linux传文件
+#### 本地向Linux传文件
 
 * scp命令
 
@@ -132,7 +132,7 @@ sftp username@remote_host
 put /path/to/local/file /path/to/destination
 ```
 
-### Linux向本地传文件
+#### Linux向本地传文件
 
 * scp命令
 
@@ -147,7 +147,7 @@ sftp username@remote_host
 get /path/to/file /path/to/destination
 ```
 
-### 如果需要传输文件夹 就在scp命令后加一个参数-r
+#### 如果需要传输文件夹 就在scp命令后加一个参数-r
 
 下例是Linux向本地传输文件夹
 
@@ -267,7 +267,7 @@ firewall-cmd --zone=public --query-port=80/tcp
 firewall-cmd --zone=public --remove-port=80/tcp --permanent
 ```
 
-### 终端代理加速proxychains4
+#### 终端代理加速proxychains4
 
 ```
 sudo apt install proxychains4
