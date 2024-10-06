@@ -27,6 +27,12 @@ git config --global user.email "你的邮箱"
 git config --global http.proxy http://127.0.0.1:7890
 ```
 
+清除代理
+```
+git config --global --unset http.proxy 
+git config --global --unset https.proxy
+```
+
 ## 查看信息
 
 ```
@@ -38,7 +44,7 @@ git config --list
 拉取远程仓库
 
 ```
-git clone https://github.com/JackLau1222/ffmpeg-GUI
+git clone https://github.com/JackLau1222/OpenConverter
 ```
 
 更新本地仓库(自动同步)
