@@ -41,74 +41,84 @@ git config --list
 
 ## 操作仓库
 
-拉取远程仓库
+### 拉取远程仓库
 
 ```
 git clone https://github.com/JackLau1222/OpenConverter
 ```
 
-更新本地仓库(自动同步)
+### 更新本地仓库(自动同步)
 
 ```
 git pull 
 ```
 
-更新本地仓库(手动同步)
+### 更新本地仓库(手动同步)
 
 ```
 git fetch 
 git merge 
 ```
 
-添加一个名为test的cpp文件（Unix/Linux）
+### 添加一个名为test的cpp文件（Unix/Linux）
 
 ```
 touch test.cpp 
 ```
 
-添加一个名为test的cpp文件（Windows）
+### 添加一个名为test的cpp文件（Windows）
 
 ```
 type nul > test.cpp
 ```
 
-将此更改提交到缓冲区
+### 将此更改提交到缓冲区
 
 ```
 git add test.cpp 
 ```
 
-将更改提交到本地仓库
+### 将更改提交到本地仓库
 
 ```
 git commit -a -m “add test.cpp” 
 ```
+在commit中，我们可以使用-m参数，以便能够直接在命令行上提供日志消息。如果您希望通过交互式编辑器会话提供详细的日志消息，也可以这样做。你需要配置Git在Git提交期间启动你最喜欢的编辑器(去掉-m参数);如果尚未设置，则可以设置
 
-提交到目标仓库
+$GIT_EDITOR环境变量如下:
+```
+# In bash or zsh
+$ export GIT_EDITOR=vim
+
+# In tcsh
+$ setenv GIT_EDITOR emacs
+```
+
+### 提交到目标仓库
 
 ```
 git push
 ```
 
-查看提交日志
+### 查看提交日志
 
 ```
 git log
 ```
 
-查看提交状态
+### 查看提交状态
 
 ```
 git status
 ```
 
-代码回滚
+### 代码回滚
 
 ```
 git reset --hard <commit_id>
 ```
 
-使远程仓库回滚生效
+### 使远程仓库回滚生效
 
 ```
 git push orgin main --force
@@ -128,20 +138,20 @@ git checkout <branch-name>
 
 ## 修改历史记录
 
-使用filter-branch工具删除指定文件"*.ipch"
+### 使用filter-branch工具删除指定文件"*.ipch"
 
 ```
 git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch **/*.ipch' --prune-empty --tag-name-filter cat -- --all
 ```
 
 
-使用bfg工具删除指定文件夹名
+### 使用bfg工具删除指定文件夹名
 
 ```
 bfg --delete-folders ".vs"  
 ```
 
-删除后执行以下命令实现垃圾回收，合并对象
+### 删除后执行以下命令实现垃圾回收，合并对象
 
 ```
 git reflog expire --expire=now --all && git gc --prune=now --aggressive 
