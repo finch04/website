@@ -1,4 +1,4 @@
-# Linux 常用命令
+# Linux/Macos 常用命令
 
 本文介绍了一些常用的 Linux 命令，可用于在终端中执行各种操作和管理任务。
 
@@ -434,4 +434,13 @@ xfs
 
 ```
 xfs_growfs /dev/mapper/cs_win10pe-root
+```
+## 动态库链接查询
+ldd(List Dynamic Dependencies)
+```
+ldd <software_path>
+```
+otool(on macos)
+```
+otool -L <software_path>
 ```
