@@ -137,7 +137,10 @@ git checkout <branch-name>
 ```
 
 ## 修改历史记录
-
+### 修改最新的提交内容
+```
+git commit --amend --allow-empty
+```
 ### 使用filter-branch工具删除指定文件"*.ipch"
 
 ```
