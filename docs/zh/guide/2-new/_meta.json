@@ -1,0 +1,72 @@
+[
+  {
+    "type": "file",
+    "name": "1-overview",
+    "label": "概览",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "2-Admission-Notice",
+    "label": "新生入学须知",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "3-Materials-Required",
+    "label": "入学材料准备",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "4-Financial-aid-policy",
+    "label": "资助及奖助学金政策",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "5-Archives-management",
+    "label": "学籍管理及学籍档案管理规定",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "6-League-organization-relations-transfer",
+    "label": "团组织关系转接",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "7-Reqiurement-about-school-and-major",
+    "label": "学校要求及专业设置",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "8-Electricity-and-Air-conditioning",
+    "label": "缴纳电费和空调电费的方法",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "9-Campus-card",
+    "label": "校园卡使用方法",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "10-Q&A",
+    "label": "新生问答",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]

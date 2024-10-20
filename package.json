@@ -8,10 +8,13 @@
     "preview": "rspress preview"
   },
   "dependencies": {
-    "rspress": "^1.0.0"
+    "rspress": "^1.28.0",
+    "rspress-plugin-align-image": "^0.3.0"
   },
   "devDependencies": {
-    "@types/node": "^16"
+    "@rspress/plugin-last-updated": "^1.28.0",
+    "@types/node": "^16",
+    "rspress-plugin-font-open-sans": "^1.0.0"
   },
   "homepage": "."
 }

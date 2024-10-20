@@ -7,8 +7,12 @@
       "zh": "社团成员",
       "en": "Members"
     },
-    "guide": {
+    "announcement": {
       "zh": "社团公告",
       "en": "Announcement"
+    },
+    "guide": {
+      "zh": "新生指南",
+      "en": "Freshman's Guide"
     }
   }

@@ -1,0 +1,37 @@
+[
+  {
+    "type": "file",
+    "name": "1-school",
+    "label": "Brief introduction of our school",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "2-School-Plan",
+    "label": "School plan",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "3-School-and-Surrounding",
+    "label": "Campus and surrounding area",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "4-Library",
+    "label": "Library-introduction",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "5-Live",
+    "label": "Live",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]

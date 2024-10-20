@@ -1,0 +1,23 @@
+[
+  {
+    "type": "file",
+    "name": "1-city",
+    "label": "城市及周边城市地区简介",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "2-Transportation",
+    "label": "天津交通简介",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "3-Ways-to-come",
+    "label": "来校方式",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]

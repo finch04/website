@@ -1,5 +1,8 @@
 import * as path from 'path';
 import { defineConfig } from 'rspress/config';
+import { LastUpdated } from 'rspress/theme'; 
+import rspressPluginAlignImage from 'rspress-plugin-align-image';
+
 
 export default defineConfig({
   // builderConfig: {
@@ -36,6 +39,7 @@ export default defineConfig({
     enableScrollToTop: true,
     enableContentAnimation: true,
     lastUpdated: true,
+    hideNavbar: 'never',
     footer: {
       message: '开源鸿蒙社 版权所有   All rights reserved by TSGU-OSC',
     },
@@ -47,6 +51,7 @@ export default defineConfig({
         lastUpdatedText: 'Last Updated',
         searchPlaceholderText: 'Search Docs',
         description: 'TSGU-OSC',
+        label: ''
       },
       {
         lang: 'zh',
@@ -55,6 +60,7 @@ export default defineConfig({
         lastUpdatedText: '最后更新时间',
         searchPlaceholderText: '搜索',
         description: '开源鸿蒙社',
+        label: ''
       },
     ],
     socialLinks: [
@@ -75,9 +81,14 @@ export default defineConfig({
   description: 'TSGU-OSC',
   icon: '/icon-l.jpg',
   logo: {
-    light: '/icon-l-1.jpg',
-    dark: '/icon-d.jpg',
+    light: '/logo-2.png',
+    dark: '/logo-4.png',
   },
+  plugins:[
+    rspressPluginAlignImage({
+        justify:'center'
+      }
+    )
+  ]
 
-  
 });

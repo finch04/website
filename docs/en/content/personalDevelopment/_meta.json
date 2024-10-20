@@ -1,0 +1,44 @@
+[
+    {
+      "type": "file",
+      "name": "index",
+      "label": "Overview of training programs and learning routes",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "file",
+      "name": "JavaBasicLearningRoute",
+      "label": "Java",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "file",
+      "name": "OpenConverterBasicLearningRoute",
+      "label": "OpenConverter",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "file",
+      "name": "Algorithm-team",
+      "label": "Algorithm-team",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "file",
+      "name": "AIBasicLearningRoute",
+      "label": "AI",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "file",
+      "name": "Internet",
+      "label": "Internet+",
+      "collapsible": "true",
+      "collapsed": "false"
+    }
+]

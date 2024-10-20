@@ -1,0 +1,24 @@
+[
+    {
+      "type": "file",
+      "name": "index",
+      "label": "Introduction",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "file",
+      "name": "member",
+      "label": "Member",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "dir",
+      "name": "personalDevelopment",
+      "label": "Talent development program",
+      "collapsible": "true",
+      "collapsed": "false"
+    }
+    
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "type": "file",
+    "name": "1-school",
+    "label": "学校简介",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "2-School-Plan",
+    "label": "校园平面图",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "3-School-and-Surrounding",
+    "label": "校园及周边区域",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "4-Library",
+    "label": "图书馆介绍",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "5-Live",
+    "label": "生活",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]

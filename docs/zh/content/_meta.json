@@ -1,0 +1,24 @@
+[
+    {
+      "type": "file",
+      "name": "index",
+      "label": "社团介绍",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "file",
+      "name": "member",
+      "label": "社团成员",
+      "collapsible": "true",
+      "collapsed": "false"
+    },
+    {
+      "type": "dir",
+      "name": "personalDevelopment",
+      "label": "社团人才培养计划",
+      "collapsible": "true",
+      "collapsed": "false"
+    }
+    
+]

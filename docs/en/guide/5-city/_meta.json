@@ -1,0 +1,23 @@
+[
+  {
+    "type": "file",
+    "name": "1-city",
+    "label": "Introduction to the city",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "dir",
+    "name": "2-Transportation",
+    "label": "Brief introduction to transportation in Tianjin",
+    "collapsible": "true",
+    "collapsed": "false"
+  },
+  {
+    "type": "file",
+    "name": "3-Ways-to-come",
+    "label": "Ways to come to school",
+    "collapsible": "true",
+    "collapsed": "false"
+  }
+]
