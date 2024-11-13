@@ -49,5 +49,11 @@
 
 如果你对开源技术充满热情，想要了解更多的开源项目和技术，欢迎加入我们的社团。请发送申请邮件至（填写社团联系人的邮箱`jacklau1222@foxmail.com`），我们将尽快与你联系。
 
-### 2024级新生群
-![](../../public/guide/foreword/foreword_1.jpg)
+### 2024级新生飞书群
+
+应用商店搜索并下载
+[`飞书`](https://www.feishu.cn/download?tracking_code=701TL00000DxhsgYAB&utm_from=bingpinzhuan_image_pc_office_pinpai_download_c006&source=bing&device=pc&ekeywordid=c006)
+([`Feishu`](https://www.feishu.cn/download?tracking_code=701TL00000DxhsgYAB&utm_from=bingpinzhuan_image_pc_office_pinpai_download_c006&source=bing&device=pc&ekeywordid=c006))，
+注册登录之后扫描下方二维码即可加入新生飞书群
+
+![Feishu QR Code](../../public/guide/foreword/QRCode.png)

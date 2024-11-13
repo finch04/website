@@ -46,3 +46,12 @@ Our club is positioned as an open-source community in universities, aiming to pr
 ### How to Join
 
 If you are passionate about open source technology and want to learn more about open source projects and technologies, welcome to join our club. Please send an application email to (insert the email address of the club contact person)` jacklau1222@foxmail.com `We will contact you as soon as possible.
+
+### Open Harmony Club 2024 New member Feishu group
+
+Search and download the 
+[`Feishu`](https://www.feishu.cn/download?tracking_code=701TL00000DxhsgYAB&utm_from=bingpinzhuan_image_pc_office_pinpai_download_c006&source=bing&device=pc&ekeywordid=c006)
+([`Feishu`](https://www.feishu.cn/download?tracking_code=701TL00000DxhsgYAB&utm_from=bingpinzhuan_image_pc_office_pinpai_download_c006&source=bing&device=pc&ekeywordid=c006)) 
+in the app store, sign in and scan the QR code below to join the group of new students.
+
+![Feishu QR code](../../public/guide/foreword/QRCode.png)
