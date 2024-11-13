@@ -21,7 +21,7 @@ hero:
 
 features:
   - title: Open WebUI
-    details: Open WebUI是社团私有的大语言模型使用平台，是一个安全可靠的智能化工具，提供了高效的推理模型，充分满足文本生成、问答分析等日常学习需求。
+    details: Open WebUI是社团私有的大语言模型使用平台，提供了一个安全可靠、智能高效的推理模型工具，能够充分满足文本生成、问答分析等日常需求。
     link: http://172.19.15.11:3000/
     icon: ℹ️
   - title: 社团Alist存储系统
@@ -29,7 +29,7 @@ features:
     link: http://172.19.15.13:5244/
     icon: 💾
   - title: 社团AI绘画工具
-    details: AI绘画技术旨在帮助社团成员提高艺术创作水平和效率。通过利用AI绘画软件，社团成员可以轻松地生成各种风格的图像，获得新的创意灵感。
+    details: 社团AI绘画工具旨在帮助社团成员提高艺术创作水平和效率，生成各种风格的图像，获得新的创意灵感。
     link: http://172.19.15.12:7860/
     icon: 🎨
   - title: 社团成员管理系统
@@ -37,13 +37,14 @@ features:
     link: http://172.19.15.13:81
     icon: ®
   - title: 社团微信公众号
-    details: 社团微信公众号是为社团宣传和推广的重要平台。社团已经通过公众号发布了社团资讯、活动信息、作品展示等众多内容。
+    details: 社团微信公众号是为社团宣传和推广的重要平台。社团已经通过公众号发布了社团资讯、活动信息、作品展示等诸多内容。
     link: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkxODY5NjQyNw==&scene=124#wechat_redirect
-    icon: ℹ️
+    icon: ✏️
   - title: 社团MC服务器
-    details: 社团MC服务器为社团成员提供了一个优质且有趣的Minecraft多人游戏环境，让社团成员在学习工作之余也可以放松一下，促进交流。
+    details: 社团MC服务器提供了一个优质且有趣的Minecraft多人游戏环境，让社团成员在学习工作之余也可以放松一下，同时促进交流。
     link: https://gitee.com/TSGU-OSC/OSC_main/blob/master/blog/How_to_play_Minecraft/How_to_play_Minecraft_server.md
     icon: 📦️
+    
   # - title: 社团GitLab仓库
   #   details: GitLab是一个开源的代码仓库管理系统，社团可以利用它来管理和维护社团的代码资源。通过GitLab，社团成员可以方便地共享代码、协作开发，并通过版本控制功能追踪和管理代码的变化。
   #   link: http://192.168.50.236:5757/

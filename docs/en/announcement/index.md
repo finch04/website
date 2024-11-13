@@ -15,4 +15,8 @@
 ### [Huawei Ascend AI Inspire Day : March 26, 2024](https://gitee.com/TSGU-OSC/OSC_main/blob/master/event/active10/README.md)
 ### The club portal website was officially launched : April 20, 2024 
 ### [World Intelligence Expo : June 20, 2024](https://gitee.com/TSGU-OSC/OSC_main/blob/master/event/active11/README.md)
-
+### [Openharmony Club 2024 Recruitment Activities：2024.9.21 - 2024.9.22](https://mp.weixin.qq.com/s/aAVoXFOFfJcUa1ZkVr8qzA)
+### [Openharmony Club 2024 New Member Welcome Party：2024.9.27](https://mp.weixin.qq.com/s/Fc2I0YecKWqeZht-kF8ufA)
+### [The Openharmony Club AI SIG group won the Bronze Award of Huawei Ascend AI Innovation Competition：2024.10.10](https://mp.weixin.qq.com/s/V2ljOXZpgHUZHMT0-Id2mw)
+### [Openharmony Club and Tianjin University of Science and Technology School of Artificial Intelligence exchange: Open source - the Romanticism of programmers：2024.10.17](https://mp.weixin.qq.com/s/L_F4VzPfvBK22IsGVzlu-A)
+### [Project experience sharing | BMF Bytedance multimedia framework By Jack Lau: Embracing open source is the romanticism of programmers：2024.10.22](https://mp.weixin.qq.com/s/prQk-RFvSsa1fVTDuXu_2g)
