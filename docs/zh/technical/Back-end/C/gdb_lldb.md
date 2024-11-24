@@ -156,6 +156,8 @@ lldb -- a.out 1 2 3
 ### 线程
 ```
 (gdb) info threads
+```
+```
 (lldb) threads list
 ```
 ### 栈
