@@ -94,6 +94,16 @@ $ export GIT_EDITOR=vim
 $ setenv GIT_EDITOR emacs
 ```
 
+更改commit message
+```
+git commit --amend
+```
+
+更改commit author email
+```
+git commit --amend --author="Jack Lau <xxxx@gmail.com>"
+```
+
 ### 提交到目标仓库
 
 ```
