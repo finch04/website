@@ -49,6 +49,16 @@ lldb -- a.out 1 2 3
 ...
 ```
 
+### 环境变量
+查看环境变量
+```
+(lldb) settings show target.env-vars
+```
+设置环境变量
+```
+(lldb) settings set target.env-vars DYLD_LIBRARY_PATH=/Users/jacklau/Documents/Programs/Git/Github/bmf/output/bmf/lib
+```
+
 ## 设置断点
 
 添加断点
