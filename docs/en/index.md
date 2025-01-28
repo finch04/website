@@ -41,7 +41,7 @@ features:
     icon: ✏️  
   - title: Minecraft In Club
     details: The Club MC Server provides a quality and fun Minecraft multiplayer environment that allows club members to relax while studying and working, while facilitating communication.
-    link: https://gitee.com/TSGU-OSC/OSC_main/blob/master/blog/How_to_play_Minecraft/How_to_play_Minecraft_server.md
+    link: https://osc.tsguas.cn/technical/Other/How_to_play_Minecraft_server.html
     icon: 📦️
     
   # - title: GitLab

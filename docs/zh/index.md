@@ -42,7 +42,7 @@ features:
     icon: ✏️
   - title: 社团MC服务器
     details: 社团MC服务器提供了一个优质且有趣的Minecraft多人游戏环境，让社团成员在学习工作之余也可以放松一下，同时促进交流。
-    link: https://gitee.com/TSGU-OSC/OSC_main/blob/master/blog/How_to_play_Minecraft/How_to_play_Minecraft_server.md
+    link: https://osc.tsguas.cn/technical/Other/How_to_play_Minecraft_server.html
     icon: 📦️
     
   # - title: 社团GitLab仓库

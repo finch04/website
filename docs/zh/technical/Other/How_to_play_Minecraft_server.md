@@ -20,17 +20,29 @@
 
 ### 下载服务器所需整合包
 
-在原版Minecraft的基础上，如果想体验更多玩法，可以通过添加Mod的形式（Mod可以理解为插件，但又不是插件）
+首先我们需要先了解一下什么是整合包：
 
-而将多个且大量的Mod整合在一起，就叫做整合包
+> 在原版Minecraft的基础上，如果想体验更多玩法，可以通过添加**Mod**的形式
+> 
+> Mod可以理解为插件，但又区别于插件，而插件在Minecraft中另有概念
+> 
+> 而将多个且大量的Mod整合在一起，就叫做整合包
 
 社团MC服务器并非原版服务器，而是装载了一个拥有三百多个Mod的大型整合包
 
 而由于MC的设计特点，如果连接带有Mod的服务器，需要本地游戏内装载有数量完全相同，版本完全相同的Mod才可以加入
 
-所以这边提供整合包的下载地址：
+并且这个整合包也在不断更新，所以需要下载服务器所加载的**特定版本**的整合包
 
-- 一个是基于CurseForge网站提供的官方下载地址：（可能需要魔法，且下载很慢）[CurseForge](https://www.curseforge.com/minecraft/modpacks/better-mc-forge-bmc4/files/5854101)
+**如果下载其他版本的整合包，会导致报错从而无法进入服务器！**
+
+这边提供该特定版本整合包的下载地址：
+
+社团服务器加载整合包的版本为：Better MC [FORGE] BMC4 v34 HF
+
+- 一个是基于CurseForge网站提供的官方下载地址：（可能需要魔法，且下载很慢）
+  
+  [CurseForge](https://www.curseforge.com/minecraft/modpacks/better-mc-forge-bmc4/files/5854101)
 
 - 另一个是基于非官方启动器的整合包下载界面：（我这里以PCL II为例）
 
@@ -38,7 +50,9 @@
 
 ![img2](../../../public/technical/Other/How_to_play_Minecraft/img2.png)
 
-- 还有一个是基于社团存储服务器下载：（需要在校园网环境下操作）[社团Alist存储服务器](http://172.19.15.13:5244/d/root/Resource/JavaSIG/Better%20MC%20%5BFORGE%5D%20BMC4%20v34%20HF.zip?sign=EcFL0BsYArvXz1DWhqusq84e7Q0vgsoJggZqfMgMCKA=:0)
+- 还有一个是基于社团存储服务器下载：（需要在校园网环境下操作）
+  
+  [社团Alist存储服务器](http://172.19.15.13:5244/d/root/Resource/JavaSIG/Better%20MC%20%5BFORGE%5D%20BMC4%20v34%20HF.zip?sign=EcFL0BsYArvXz1DWhqusq84e7Q0vgsoJggZqfMgMCKA=:0)
 
 更推荐使用非官方启动器自带的下载界面下载，因为会自动帮你处理，处理完毕之后点击开始游戏即可
 
