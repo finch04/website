@@ -170,6 +170,21 @@ bfg --delete-folders ".vs"
 git reflog expire --expire=now --all && git gc --prune=now --aggressive 
 ```
 
+## git send-email
+配置SMTP基本信息（以qq为例）
+```Shell
+git config --global sendemail.smtpServer smtp.qq.com
+git config --global sendemail.smtpPort 465
+git config --global sendemail.smtpUser "your_email@qq.com"
+git config --global sendemail.smtpPass "your_app_password"
+git config --global sendemail.smtpssl true  # Ensure SSL is enabled
+git config --global sendemail.smtpAuth LOGIN  # Use LOGIN method
+```
+发送邮件（以ffmpeg为例）
+```
+git send-email --smtp-ssl --to ffmpeg-devel@ffmpeg.org --subject "[PATCH] Fix time_base handling" -1 b438672b11645e1152375beba759a0d2c704e3b1  
+```
+
 ## git官网
 
 <https://git-scm.com/downloads>
