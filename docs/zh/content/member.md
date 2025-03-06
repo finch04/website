@@ -6,7 +6,7 @@
 #### 刘奇翰
 
   * 个人简介：
-    开源鸿蒙社社长、FFmpeg Contributor、字节跳动BMF Commiter、[华为开发者布道师](https://developer.huawei.com/home/program/advocates/member/c1ecca860e35404d8d1e3c88c4bca377)
+    开源鸿蒙社社长、FFmpeg Contributor、字节跳动BMF Committer、[华为开发者布道师](https://developer.huawei.com/home/program/advocates/member/c1ecca860e35404d8d1e3c88c4bca377)
 
   * 研究方向：
     数字图像处理，音视频基础架构
