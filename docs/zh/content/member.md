@@ -6,10 +6,10 @@
 #### 刘奇翰
 
   * 个人简介：
-    开源鸿蒙社社长、华为HSD校园大使、开放原子校源行开源大使、HiFOSS开源社区联合创始人
+    开源鸿蒙社社长、FFmpeg Contributor、字节跳动BMF Commiter、[华为开发者布道师](https://developer.huawei.com/home/program/advocates/member/c1ecca860e35404d8d1e3c88c4bca377)
 
   * 研究方向：
-    数字图像处理，机器学习，音视频基础架构
+    数字图像处理，音视频基础架构
 
 
 #### 柳检
