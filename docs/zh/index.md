@@ -40,10 +40,10 @@ features:
     details: 社团微信公众号是为社团宣传和推广的重要平台。社团已经通过公众号发布了社团资讯、活动信息、作品展示等诸多内容。
     link: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkxODY5NjQyNw==&scene=124#wechat_redirect
     icon: ✏️
-  - title: 社团MC服务器
-    details: 社团MC服务器提供了一个优质且有趣的Minecraft多人游戏环境，让社团成员在学习工作之余也可以放松一下，同时促进交流。
-    link: https://osc.tsguas.cn/technical/Other/How_to_play_Minecraft_server.html
-    icon: 📦️
+  # - title: 社团MC服务器
+  #   details: 社团MC服务器提供了一个优质且有趣的Minecraft多人游戏环境，让社团成员在学习工作之余也可以放松一下，同时促进交流。
+  #   link: https://osc.tsguas.cn/technical/Other/How_to_play_Minecraft_server.html
+  #   icon: 📦️
     
   # - title: 社团GitLab仓库
   #   details: GitLab是一个开源的代码仓库管理系统，社团可以利用它来管理和维护社团的代码资源。通过GitLab，社团成员可以方便地共享代码、协作开发，并通过版本控制功能追踪和管理代码的变化。
