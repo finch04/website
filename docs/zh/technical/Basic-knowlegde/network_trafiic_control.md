@@ -24,7 +24,7 @@ This ensures both directions are affected
 Confirm it’s working:
 
 ```bash
-dnctl list
+sudo dnctl list
 ```
 Or run your local UDP test (e.g., via FFmpeg)—you should see packet losses and delays.
 
