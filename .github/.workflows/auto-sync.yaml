@@ -1,0 +1,35 @@
+name: Sync Fork with Upstream
+
+on:
+  # Trigger the action manually via the GitHub UI
+  workflow_dispatch:
+  
+  # Schedule the action to run periodically (daily at midnight)
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          ref: master
+
+      - name: Add upstream remote
+        run: git remote add upstream https://github.com/TSGU-OSC/website.git
+
+      - name: Fetch upstream changes
+        run: |
+          git fetch upstream
+
+      - name: Rebase with upstream master
+        run: |
+          git checkout master  # Ensure we're on the master branch of your fork
+          git rebase upstream/master  # Rebase your fork's master branch with the upstream master branch
+
+      - name: Push changes to fork
+        run: |
+          git push origin master  # Push the rebased changes to your fork's master branch
